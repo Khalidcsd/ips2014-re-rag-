@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "dataset_code": "IPS-2014",
+    "source_document": "DOC-24",
+    "source_family": "anonymized German manufacturing equipment specification family",
+    "version_year": "2015",
+    "pages": 27,
+    "domain": "hydraulic equipment / industrial requirements",
+    "responsible_contact": "[REMOVED — direct PII]",
+    "copyright_note": "Derived from copyright-restricted OEM-X source; source not redistributable. This dataset is anonymized derivative data.",
+    "sector": "industrial manufacturing (machine tools & production equipment)",
+    "country": "Germany",
+    "description": "Anonymized requirements-engineering dataset derived from a confidential German industrial-manufacturing equipment specification family. All company names, supplier IDs, personal contacts and the originating OEM have been pseudonymized or removed. Engineering taxonomy and requirement statements are real."
+  },
+  "statistics": {
+    "total_suppliers": 49,
+    "total_component_categories": 7,
+    "total_subcategories": 37,
+    "referenced_standards": 12,
+    "specific_part_numbers": 12
+  },
+  "category_breakdown": {
+    "Energieumwandlung": {
+      "name_en": "Energy Conversion",
+      "subcategories": 5
+    },
+    "Hydrozylinder": {
+      "name_en": "Hydraulic Cylinders",
+      "subcategories": 5
+    },
+    "Hydrospeicher": {
+      "name_en": "Hydraulic Accumulators",
+      "subcategories": 6
+    },
+    "Hydroventile": {
+      "name_en": "Hydraulic Valves",
+      "subcategories": 6
+    },
+    "Filter": {
+      "name_en": "Filters",
+      "subcategories": 4
+    },
+    "Rohrleitungen": {
+      "name_en": "Piping & Connections",
+      "subcategories": 6
+    },
+    "Überwachung": {
+      "name_en": "Monitoring & Control",
+      "subcategories": 5
+    }
+  },
+  "n_suppliers": 49,
+  "n_component_subcategories": 37,
+  "requirements_corpus": {
+    "n_requirements": 535,
+    "source": "machine/equipment mechanical specification (anonymized)",
+    "language": "de",
+    "note": "real extracted obligation statements; basis for fine-tuning + RAG"
+  }
+}

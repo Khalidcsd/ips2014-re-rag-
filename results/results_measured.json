@@ -1,0 +1,24 @@
+{
+  "corpus": {
+    "requirements": 535,
+    "contrastive_pairs": 1478
+  },
+  "baseline": {
+    "queries": 496,
+    "MRR@5": 0.24952956989247307,
+    "P@5": 0.12177419354838735,
+    "NDCG@5": 0.1397539840214434
+  },
+  "finetuned": {
+    "queries": 496,
+    "MRR@5": 0.39657258064516154,
+    "P@5": 0.20201612903225855,
+    "NDCG@5": 0.2406599168645512
+  },
+  "delta": {
+    "MRR@5": 0.147,
+    "P@5": 0.0802,
+    "NDCG@5": 0.1009
+  },
+  "note": "single-annotator prototype; measured this run; no inter-rater stats claimed"
+}

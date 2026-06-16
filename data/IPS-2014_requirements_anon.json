@@ -1,0 +1,3212 @@
+[
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Das maximale Drehmoment des Antriebes ist auf die angetriebene Mechanik anzupassen, insbesondere bei Übersetzungen durch Getriebe."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Bei den Antriebsarten muss unbedingt gewährleistet sein, dass im Crash/Störfall durch die Antriebsleistung keine Folgeschäden entstehen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Für jede Art von Spindel (Vorschub-, Rundachsen und Hauptspindeln) sind geeignete Maßnahmen zu ergreifen, die ein geregeltes, weiches Beschleunigen und Abbremsen der Mechanik erlauben. Bei ungeregelten Hauptspindeln ist \"Sanft Anlauf\" vorzusehen. Bei Servo- Achsen (auch Hauptspindeln, Rundachsen) sind in den Antriebsmaschinendaten Ruckbegrenzungen (Begrenzung der Beschleunigungsänderung) zu aktivieren."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Bei sämtlichen Maschinen und Anlagen sind aus Gründen der notwendigen hohen Verfügbarkeit vordringlich die „Verschleißarmut“ und die „Reparaturfreundlichkeit“ des Systems zu betrachten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Die Antriebsmotoren müssen gut zugänglich angebracht werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Verwendung von Silikon und ähnlichen Stoffen zum Abdichten der Anlagen ist nicht zulässig."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Für Nachspannmöglichkeiten bei Riemen- und Kettenantrieben ist zu sorgen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Normteile und Kaufteile dürfen nicht geändert werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Die Befestigung von Teilen auf Blechen und Profilen ist nur mit stabilen Verbindungen zulässig (Gewindetiefe min. 1XØ). In der Nassbearbeitung nach außen dicht."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Es dürfen nur Kegel- und Zylinderstifte mit Innengewinde verwendet werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Alle Kennzeichnungen an den Anlagen und Komponenten müssen dauerhaft und unverlierbar angebracht sein. Ausführung gemäß OEM-X-1. Die Befestigung der Kennzeichnungen ist mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Angetriebene Anbauteile wie z.B. Pumpen sind an Normflansch und Normwellendurchmesser der Antriebe anzupassen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Alle Antriebskomponenten in besonders schlechten Umgebungsbedingungen sind durch geeignete Abdeckungen gegen Verschmutzung durch Späne, Flüssigkeiten, Staub-, Schweiß-, Farbspritzer so zu schützen, dass ein wartungsfreier Betrieb gewährleistet ist."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Abdeckungen müssen steckbar befestigt werden, und in gesicherten Bereichen ohne Werkzeug zu entfernen sein (z.B. Schnappverschlüsse, Federbolzen o.ä.)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Abdeckungen müssen einzeln demontierbar sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Die Zugänglichkeit bei Reparaturen an den Anlagen muss so gestaltet sein, dass ohne größeren Demontageaufwand, die Reparaturen durchgeführt werden können (gilt für alle Bauelemente, um eine höhere Verfügbarkeit der Anlagen zu erreichen)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "A",
+  "text": "Ventile, Druckschalter, Regler etc. (Hydraulik sowie Pneumatik) müssen so angebracht sein, dass diese außerhalb der Maschinen- oder Schutzzone zu bedienen sind. Die Anlage muss einsehbar sein, um die Bewegungen verfolgen zu können."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "M",
+  "text": "Reibbelag-/Rutschkupplungen dürfen nicht betriebsbedingt betätigt und nicht im Nassbereich eingesetzt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Anlagenkomponenten, die einer erhöhten Positionsgenauigkeit zueinander bedürfen, sind grundsätzlich zu verstiften."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "A",
+  "text": "Beschilderungen mit Klebeschildern sind in „trockenen“ Maschinenbereichen (außerhalb von Arbeitsräumen) in Abstimmung mit der OEM-X Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "M",
+  "text": "Beschilderungen mit Klebeschildern sind in Maschinenbereichen nicht erlaubt."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Standard-Aluminiumprofile sind als Konstruktionselemente nicht zugelassen bei Einsatzfällen mit dynamischer Belastung (z.B. Prüfstände) sowie bei notwendiger erhöhter Positioniergenauigkeit. Tragende Maschinenkonstruktionen dürfen nur nach Rücksprache mit OEM-X aus Aluminiumprofilen aufgebaut werden. Ein verstiften ist nicht zulässig."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Motoren und Getriebe dürfen nicht anstelle einer zweiten Lagerung eingesetzt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Jeglicher Medienaustrag (Montageöl, Motoröl, Prüföl, Kleb- und Dichtstoffe, Kühl- und Waschwasser, KSS, Kraftstoffe etc.) aus der Maschine/Anlage ist durch geeignete Maßnahmen zu unterbinden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Der AN ist verpflichtet alle technischen Unterlagen zur Ausführung von Instandsetzungsarbeiten sowie zur Anfertigung von Ersatz- und Verschleißteilen, auch der AN- spezifischen „Standardteilen“, unentgeltlich mit zuliefern. Es sind fertigungsgerecht bemaßte Zeichnungen, auch von „Standardteilen“, in konzernspezifischen Dateiformaten unentgeltlich mit zuliefern."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemeine Mechanik für Aggregate und Montage Werke",
+  "prefix": "AM",
+  "text": "Wenn das Typenschild einer Komponente, z.B. Pumpen, Motoren etc. in der Einbauposition nicht eindeutig lesbar ist, muss ein zweites Typenschild an einem geeigneten Ort gut lesbar angebracht werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sicherheitseinrichtungen",
+  "prefix": "AM",
+  "text": "Es müssen Ausfälle an Produktionsmitteln bei der Berechnung der technischen Verfügbarkeit Dokumentiert werden. Ein Ausfall der Produktionsmittel muss der Verfügbarkeit entsprechend behoben werden können (dies ist für eine hohe Anlagenverfügbarkeit unabdingbar) 5.2 AM Sicherheitseinrichtungen"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sicherheitseinrichtungen",
+  "prefix": "AM",
+  "text": "Aus Sicherheitsgründen müssen konstruktive Maßnahmen zur Begehung der Anlage für Wartung und Instandsetzung in der Planungsphase vorgesehen und bis zur Inbetriebnahme realisiert sein (siehe Sicherheit von Maschinen – Grundbegriffe, allgemeine Gestaltungsanleitsätze)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sicherheitseinrichtungen",
+  "prefix": "AM",
+  "text": "Wenn eine Gefahrenanalyse und Risikobeurteilung es erfordert (unter Berücksichtigung des OEM-X Betriebsartenkonzepts), müssen aus Gründen der Unfallverhütung Vertikal- und Schrägeinheiten mit einer elektrisch überwachten, automatischen Absenksperre ausgerüstet sein. Je nach Ausführung muss eine Redundanz vorgesehen werden. Die Absenksperre muss in jeder Stellung der Einheit bzw. Werkzeug- oder Werkstückwechselstellung (nur beim Öffnen der verriegelten Schutztür) aktiv sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sicherheitseinrichtungen",
+  "prefix": "AM",
+  "text": "Für Wartungs- und Reparaturarbeiten, muss an jeder Einheit eine einheitliche Absteckbohrung und ein mechanischer Absteckbolzen vorhanden sein (unverlierbar und elektrisch abgefragt)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sicherheitseinrichtungen",
+  "prefix": "AM",
+  "text": "Der Absteckbolzen und die Absteckbohrung sind rot gemäß Farbkonzept nach OEM-X-1 zu kennzeichnen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sicherheitseinrichtungen",
+  "prefix": "AM",
+  "text": "Der Absteckbolzen ist mit einer Einfachsicherung gegen Herausfallen zu sichern."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sicherheitseinrichtungen",
+  "prefix": "AM",
+  "text": "Für die Prüfung und den Austausch von Ketten, Riemen und Seilen ist eine Möglichkeit zu schaffen, den Gewichtsausgleich zu sichern."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sicherheitseinrichtungen",
+  "prefix": "A",
+  "text": "Bei Be- und Entladeeinrichtungen, die eine oder mehrere Maschinen beladen, ist eine mechanische, elektrisch überwachte und automatisch wirkende Bereichsabsicherung erforderlich."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sicherheitseinrichtungen",
+  "prefix": "A",
+  "text": "Muss das Innere von Maschinen/Anlagen betreten werden, z.B. zum Werkzeugwechsel, sind dort Gitterroste nach DIN 24537-1/-2 mit der Rutschhemmung R12 zu verlegen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sicherheitseinrichtungen",
+  "prefix": "AM",
+  "text": "An allen Maschinen und Einrichtungen ist ein sicherer Zugang zu den Baugruppen (Wartungs- und Instandhaltungsbühnen), gemäß Sicherheit von Maschinen – Grundbegriffe, allgemeine Gestaltungsanleitsätze, sicherzustellen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sicherheitseinrichtungen",
+  "prefix": "AM",
+  "text": "An Portalen ist eine Begehungsfläche nur an der Wartungsposition erforderlich."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sicherheitseinrichtungen",
+  "prefix": "AM",
+  "text": "Es ist jeweils zu prüfen, ob ein Sicherungsblech unter den Gitterrost zu montieren ist (z.B. über Durchgängen, Arbeitsplätzen usw.)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sicherheitseinrichtungen",
+  "prefix": "AM",
+  "text": "Steighilfe bis 5m Aufstiegshöhe (Mindestanforderung): Es ist eine Einhängemöglichkeit für eine Aluminiumleiter an jeder Begehungsfläche oder eine Festinstallation vorzusehen. Es ist eine angemessene Anzahl Einhängeleitern im Projekt mitzuliefern (3 Leitern pro 10 Begehungsflächen). Die Aluminium-Einhängeleitern sind mit rutschfesten Tritten zu liefern. Die Leitern sind mit einer Mindestbreite von 420mm zu liefern."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Überlastschutz",
+  "prefix": "AM",
+  "text": "Begehungsflächen: Die Begehungsfläche ist mit Gitterrosten nach DIN 24537 -1/-2 Rutschfestigkeit R12 auszuführen. Es Ist eine umlaufende Fußleiste nach DIN 4420 mit 100mm Höhe anzubringen. Eine Absturzsicherung (Geländer) inklusive selbstschließender Tür an der Aufstiegsstelle ist vorzusehen. Die Mindesttiefe der Begehungsfläche muss 600mm betragen. 5.3 AM Überlastschutz"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Überlastschutz",
+  "prefix": "AM",
+  "text": "Achsen mit Absolutmesssystem dürfen keine Überlastkupplungen haben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Überlastschutz",
+  "prefix": "AM",
+  "text": "Sind Überlastkupplungen unumgänglich so muss sichergestellt werden, dass eine sichere Nullpunktfahrt möglich ist (Schild mit Angaben)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Überlastschutz",
+  "prefix": "AM",
+  "text": "Auffahrsicherungen für Roboter und Be– und Entladesysteme sind einzusetzen und prozessabhängig mit den technischen OEM-X Fachbereichen abzustimmen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Überlastschutz",
+  "prefix": "AM",
+  "text": "Abtriebs- und Antriebsmomente mit prozessbedingten Lastschwankungen sind durch geeignete formschlüssige Kupplungen mit elektrischer Rückmeldung und Zwangssperrung zu schützen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Maschinenaufstellung",
+  "prefix": "AM",
+  "text": "Grundsätzlich werden Aufstellplatten verdübelt."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Maschinenaufstellung",
+  "prefix": "AM",
+  "text": "Die Produktions-/Betriebsmittel sind mit den Aufstellplatten fest zu verbinden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Achskennung",
+  "prefix": "AM",
+  "text": "Ergänzend sind die werkspezifischen Vorschriften einzuhalten. 5.5 AM Achskennung"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Achskennung",
+  "prefix": "AM",
+  "text": "Für Anlagen mit mehreren NC/Servo-Achsen ist eine NC/Servo-Achsübersicht zu erstellen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Achskennung",
+  "prefix": "AM",
+  "text": "Die NC/Servo-Achsen sind mit X, Y, Z. und mit + - Richtung zu kennzeichnen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Achskennung",
+  "prefix": "AM",
+  "text": "Sind an einer Bearbeitungseinheit NC/Servo-Achsen eingesetzt, so ist die Null-Punkt-Kenn- zeichnung und die Maßangabe / Blockmaß dauerhaft und gut sichtbar an der Einheit anzubringen (Schild mit Messorten und Maßangabe)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Arbeitsraumgestaltung in der Zerspanung",
+  "prefix": "AM",
+  "text": "An jeder NC/Servo-Achse ist der Nullpunkt mit Nonius-Skala zu kennzeichnen (Funktion wie Messschieber). 5.6 A Arbeitsraumgestaltung in der Zerspanung"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Arbeitsraumgestaltung in der Zerspanung",
+  "prefix": "A",
+  "text": "Die Zerspanungsmaschine muss unter Berücksichtigung des Späneabflusses selbstreinigend sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Arbeitsraumgestaltung in der Zerspanung",
+  "prefix": "A",
+  "text": "Entfernen von Spänenestern durch den Maschinenbediener muss auf max. einmal pro Tag begrenzt werden. Dieser Forderung ist mit entsprechenden konstruktiven Maßnahmen zur Arbeitsraumgestaltung nachzukommen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Arbeitsraumgestaltung in der Zerspanung",
+  "prefix": "A",
+  "text": "Störkanten durch Kleinanbaukomponenten sind zu vermeiden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Arbeitsraumgestaltung in der Zerspanung",
+  "prefix": "A",
+  "text": "Es sind keine horizontalen Restflächen zugelassen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Arbeitsraumgestaltung in der Zerspanung",
+  "prefix": "A",
+  "text": "Eine freie Rohrverlegung ist auf ein Minimum zu reduzieren."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Arbeitsraumgestaltung in der Zerspanung",
+  "prefix": "A",
+  "text": "Ausführungen mit im Grundkörper verbohrten Zuleitungen sind zu bevorzugen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Arbeitsraumgestaltung in der Zerspanung",
+  "prefix": "A",
+  "text": "Schraubenköpfe sind versenkt und verschlossen auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Arbeitsraumgestaltung in der Zerspanung",
+  "prefix": "A",
+  "text": "Innerhalb des Arbeitsraumes sorgen bearbeitungsgerecht angeordnete Schutzbleche für gezielten Späneflug. Späneleitbleche sind überlappend zu gestalten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Das Zusetzen von Schraubenköpfen und Bohrungen ist zu verhindern. 5.7 A Entsorgung aus den Zerspanungsmaschinen 5.7.1 A Allgemein"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Der Maschinenlieferant muss die Maschine zum Späneförderer oder zur Spülrinne hin abdichten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Es ist unbedingt darauf zu achten, dass der Übergang von der Maschine zum Späneförderer oder zur Spülrinne dicht ist."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Es muss sichergestellt werden, dass auch kein Kühlschmierstoff oder Nebel aus dem Späneförderer oder der Spülrinne nach außen treten kann."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Der Übergang muss mit Labyrinthen abgedichtet werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Pro Auftrag/Projekt darf nur ein Späneförderer-Fabrikat eingesetzt werden. Das Fabrikat ist mit den zuständigen technischen OEM-X Fachbereichen abzustimmen. 5.7.2 A Kratzförderer"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Die Länge der einzelnen Wannensegmente beträgt maximal 2 m. Unabhängig davon ist sicherzustellen, dass eine problemlose Demontage jederzeit möglich ist. Bei Unsicherheit ist der Aufstellungs- bzw. Verkettungsplan einzusehen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Die Wannenverbindungen sind Öl- und Emulsionsbeständig verschraubt."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Die Wanne ist aus Stahlblech mit einer Blechdicke von mindestens 4mm gefertigt."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Die Verschleißbleche am Boden von Kratzerförderer und Verschleißschienen unter Ketten sind mindestens 3mm dick auszuführen. Als Material sind einsatz- oder hochverschleißfeste Stähle nach Abstimmung mit der verantwortlichen technischen OEM-X Fachabteilung einzusetzen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Im Bereich des Späneabwurfs sind Leitbleche zu installieren, um die Förderkette zu schützen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Die Abdeckung im Bereich der Umlenkung muss geteilt sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Die Inspektion der Umlenkung muss bei laufendem Betrieb möglich sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Die Kette ist eine Vollbolzen-Förderkette nach DIN ISO 1977."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Die Kette ist an den Befestigungslaschen auf der Ketteninnenseite versplintet. Es sind die größtmöglichen Splinte zu verwenden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Bei Ketten, die für den Transport von abrasiven Werkstoffen (z.B. Schleifschlamm) eingesetzt werden, sind die Befestigungslaschen quer zur Transportrichtung anzuschweißen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Die Mitnehmer sind mit 2 Schrauben (bei Lichterweite über 300mm mit 4 Schrauben) montiert. Die Schraubverbindung ist selbstsichernd."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "An der Kettenaußenseite sind Gleitklötze im Abstand von 800mm angeschweißt."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Eine Kettenlaufkontrolle ist zwingend erforderlich."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Die Antriebswelle einschließlich der Drehmomentstütze muss mittels Spindelverstellung gleichzeitig nachspannbar sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Der Kettenspannweg muss mindestens 2 x die Länge der Kettenteilung betragen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Die Kettenräder sind wartungsarm gelagert."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Die Zähne der Kettenräder sind flankengehärtet."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Die Antriebs- und Umlenkungskettenräder sind geteilt auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Die Laufrichtung muss kurzfristig reversierbar sein (Handschalter)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Die Schnittstelle für den Späneabwurf durch die Decke ist vom Lieferanten abzudichten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Die Schnittstelle für das Absaugsystem ist vom Lieferanten strömungstechnisch auszulegen und abzudichten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kratzförderer",
+  "prefix": "A",
+  "text": "Am Schwanenhals muss ein Sichtfenster zur Einsicht in den Späneförderer angebracht werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Magnetbandförderer",
+  "prefix": "A",
+  "text": "Die Wannenverbindungen sind öl- und emulsionsbeständig verschraubt und abgedichtet."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Plattenbandförderer",
+  "prefix": "A",
+  "text": "Die Kettenlauffläche ist aus verschleißfestem Material zu fertigen. 5.7.4 A Plattenbandförderer"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Plattenbandförderer",
+  "prefix": "A",
+  "text": "Die Demontierbarkeit muss sichergestellt sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Plattenbandförderer",
+  "prefix": "A",
+  "text": "Zur problemlosen Demontage des Kettenschlosses ist am Förderer im Bereich der Spannstation eine Öffnung erforderlich."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Plattenbandförderer",
+  "prefix": "A",
+  "text": "Die Kettenräder müssen wartungsarm gelagert sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "KSS Spänerückpumpsysteme",
+  "prefix": "A",
+  "text": "Die Laufrichtung muss kurzfristig reversierbar sein (Handschalter). 5.7.5 A KSS Spänerückpumpsysteme"
+ },
+ {
+  "doc": "STD-2",
+  "section": "KSS Spänerückpumpsysteme",
+  "prefix": "A",
+  "text": "An der Spänefördererwanne ist am Übergang zum Schwanenhals beidseitig ein Rechteckflansch zwischen der oberen und unteren Kettenführung anzubringen. Der Flansch hat eine Länge von mindestens 400mm, die maximale Höhe ist abhängig von der Bauhöhe des Förderers."
+ },
+ {
+  "doc": "STD-2",
+  "section": "KSS Spänerückpumpsysteme",
+  "prefix": "A",
+  "text": "Die Steigung im Bereich des Schwanenhalses darf 60 Grad nicht übersteigen. Werden Langspäne gefördert ist eine geringere Steigung anzustreben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "KSS Spänerückpumpsysteme",
+  "prefix": "A",
+  "text": "Auf die Flansche werden die zum Lieferumfang gehörenden Auslaufkästen mit dem Anschlussflansch für das von OEM-X ggf. beigestelltem Abpumpsystem mitgeliefert."
+ },
+ {
+  "doc": "STD-2",
+  "section": "KSS Spänerückpumpsysteme",
+  "prefix": "A",
+  "text": "Das Spaltsieb am KSS-Auslaufkasten muss Späne ab einer Länge von 25mm sicher zurückhalten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "KSS Spänerückpumpsysteme",
+  "prefix": "A",
+  "text": "Zur Vermeidung von Ablagerungen ist am KSS-Auslaufkasten eine ½“ Muffe für eine Spüldüse vorzusehen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "KSS Spänerückpumpsysteme",
+  "prefix": "A",
+  "text": "Das Spaltsieb/Lochblech im KSS-Auslaufkasten ist für Wartungs- und Reinigungsarbeiten leicht demontierbar auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "KSS Spänerückpumpsysteme",
+  "prefix": "A",
+  "text": "Bei großen Mengen von KSS (>1 l/min) oder bei großen Längen (> 2cm) der Späneförderer werden noch zusätzliche Entlastungspumpen benötigt. Die Verrohrung innerhalb der Anlage bis zum OEM-X-Rückpumpsystem gehört zum Lieferumfang des Maschinenherstellers. Eine Abstimmung mit der verantwortlichen technischen OEM-X Fachabteilung ist erforderlich."
+ },
+ {
+  "doc": "STD-2",
+  "section": "KSS Spänerückpumpsysteme",
+  "prefix": "A",
+  "text": "Die Ausführung der Überlaufabsicherung ist mit der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "KSS Spänerückpumpsysteme",
+  "prefix": "A",
+  "text": "Der Antriebskopf und der Späneabwurf an den Spänebrecher ist KSS- und Spänedicht auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "KSS Spänerückpumpsysteme",
+  "prefix": "A",
+  "text": "Die Übergabehöhe des Späneförderers ist an den Spänebrecher anzupassen (ca. 1300mm)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Vakuumspäneabsaugung",
+  "prefix": "A",
+  "text": "Der Abwurftrichter zum Spänebrecher muss so gestaltet werden, dass keine Späne hängen bleiben können. Die Schütthöhe (Volumen) des Spänetrichters ist der anfallenden Spänemenge und Späneform anzupassen. 5.7.6 A Vakuumspäneabsaugung"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Vakuumspäneabsaugung",
+  "prefix": "A",
+  "text": "Bei Rohrleitungen und Formteile aus Einsatzstählen oder hochverschleißfesten stählen, ist auf eine gute Demontierbarkeit aller Komponenten zu achten. Rohrleitungsführungen sind mit einer minimalen Anzahl an Richtungsänderungen ausführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Vakuumspäneabsaugung",
+  "prefix": "A",
+  "text": "Auf Geradlinigkeit des Rohrleitungsverlaufs ist zu achten, ein stabiles und bruchsicheres Halterungsmaterial ist zu verwenden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Vakuumspäneabsaugung",
+  "prefix": "A",
+  "text": "Der Unterdruckerzeuger mit Filteranlage ist so auszulegen, dass das Reinigen der Filteranlage ohne Stillstand der Maschine/Anlage ausgeführt werden kann. Ist das nicht möglich so sind die Unterdruckerzeuger redundant auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Vakuumspäneabsaugung",
+  "prefix": "A",
+  "text": "Absaugbehälter an den Maschinen müssen gutes Dosier- und Speicherverhalten aufweisen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Vakuumspäneabsaugung",
+  "prefix": "A",
+  "text": "Sensoren zur Füllstandsüberwachung sind mit dem technischen OEM-X Fachbereich abzustimmen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Vakuumspäneabsaugung",
+  "prefix": "A",
+  "text": "Bei Störung an einer Absaugstation muss diese überbrückt werden können, um den Saugprozess der anderen Stationen zu ermöglichen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Vakuumspäneabsaugung",
+  "prefix": "A",
+  "text": "Bei Trockenbearbeitung muss auf ein genügend großes Auffangvolumen für Feinstpartikel geachtet werden (Filterbehälter). Der Behälter muss ohne Betriebsunterbrechung gewechselt werden können."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Vakuumspäneabsaugung",
+  "prefix": "A",
+  "text": "Der Übergang vom Maschinenförderer zum Absaugbehälter muss staubdicht ausgeführt sein, auch bei integrierten Lösungen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Vakuumspäneabsaugung",
+  "prefix": "A",
+  "text": "Entnahmemöglichkeit von Grobteilen am Absaugbehälter sind an geeigneter Stelle zu schaffen um den Eintritt ins Rohrleitungssystem zu vermeiden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Den Einbau von Armaturen im Bereich des Späneflusses ist unzulässig. 5.8 A Schutzverkleidungen für Zerspanungsmaschinen"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Die Maschine muss dicht sein (Spritzwasser, Späne, Stäube und Emissionen)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Die Abdichtung durch Labyrinthe ist notwendig für eine dichte Maschine."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "In der Nassbearbeitung dürfen keine Durchgangsschrauben und Durchgangsnieten an der Blechverkleidung verwendet werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Für Wartungstüren sind Schlösser mit einem 8mm Vierkant selbstschließend zu verwenden. Von innen sind diese ohne Werkzeug zu öffnen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Schnelle und gute Zugänglichkeit bei Reparatur, Wartung und Werkzeugwechsel ist unbedingt sicherzustellen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Die Gesamtmaschinenverkleidung ist möglichst niedrig zu halten, um zwischen Decke und Maschinenoberkante ausreichenden Freiraum zu gewinnen, so dass Maschinenelemente mit einem Hubstapler oder Kran, nach oben über die Verkleidungskante abgehoben werden können."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Alle Füllstandsanzeigen an der Maschine bzw. Einheit müssen gut sichtbar angebracht sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Es ist nur der Zerspanungsbereich voll zu kapseln (Mitteneinheit)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Ein eng geführter Innenschutz für Späne und Kühlmittel ist vorzusehen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Der hintere Teil der Vorschubeinheit muss zum Bearbeitungsraum hin gegen Späne, Nebel und Spritzwasser dicht sein (in der Grundstellung Automatik ist der Arbeitsraum geschlossen)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Die Arbeitsraumabdichtung, Schottwand gegen feste Maschinenwand, muss mit einer schlauchförmigen Dichtung erfolgen (keine Bürsten oder gerade Dichtlippen)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Die Verkleidungseinzelteile müssen in Form und Größe so ausgeführt werden, dass diese im Reparaturfalle schnell durch eine Person demontierbar und montierbar sind (ca. 1m x 1,5m)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Die Elemente sind mit Tragegriffen und unverlierbaren, mit Werkzeug zu betätigenden Schnellverschlüssen auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Anbauten an demontierbaren Komponenten der Verkleidung sind nicht zulässig."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Für dichte Maschinen sind Schiebetüren zwingend erforderlich."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Die Schutztüren sind verwindungssteif auszuführen, damit beim Schließen der Tür keine Störung am Sicherheitsschalter entsteht."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Auf einer Seite muss die Schiebetür und die Schiebetüraufhängung (Führung) schnell entfernt werden können."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Zerspanungsmaschinen",
+  "prefix": "A",
+  "text": "Ein- und Auslauföffnungen für Werkstücke sind möglichst klein zu halten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schutzverkleidungen für Montageanlagen",
+  "prefix": "A",
+  "text": "Die Verriegelungsschalter müssen außerhalb der Verkleidung gut zugänglich angebracht werden. 5.9 AM Schutzverkleidungen für Montageanlagen"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schalldämmelemente",
+  "prefix": "AM",
+  "text": "Zur Schalldämmung müssen ausschließlich nicht brennbare Materialien verwendet werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schalldämmelemente",
+  "prefix": "AM",
+  "text": "Der Einsatz der Dämmmaterialien ist mit der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schalldämmelemente",
+  "prefix": "AM",
+  "text": "Sollten die zum Einsatz kommenden Dämmmaterialien von den standortspezifischen Freigaben abweichen, sind die EG-Sicherheitsdatenblätter für die Freigabe einzureichen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schalldämmelemente",
+  "prefix": "AM",
+  "text": "Künstliche Mineralfasern (KMF), die nicht die gesetzlichen Freizeichnungskriterien erfüllen, dürfen nicht verwendet werden. Keramische Beimischungen sind nicht zugelassen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schalldämmelemente",
+  "prefix": "AM",
+  "text": "Dämmstoffe und Schallschutz sind durch geeignete Maßnahmen oder Sandwich-Bauweise gegen Feuchtigkeitsaufnahme und gegen mechanische Beschädigung zu schützen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sichtfenster an Werkzeugmaschinen",
+  "prefix": "A",
+  "text": "Sichtfenster in der Schutzverkleidung der Transferstraßen sind nur im mittleren Bereich sinnvoll."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sichtfenster an Werkzeugmaschinen",
+  "prefix": "A",
+  "text": "An Bearbeitungseinheiten der Transferstraßen müssen die seitlichen Schiebetüren ohne Sichtfenster ausgeführt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sichtfenster an Werkzeugmaschinen",
+  "prefix": "A",
+  "text": "An Einzelmaschinen müssen die Sichtfenster so angebracht werden, dass ein Beobachten des Prozesses möglich ist."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sichtfenster an Werkzeugmaschinen",
+  "prefix": "A",
+  "text": "Eine Abstimmung mit der Produktion ist in beiden Fällen erforderlich."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sichtfenster an Werkzeugmaschinen",
+  "prefix": "A",
+  "text": "Beim Einbau der Fenster ist darauf zu achten, dass diese von beiden Seiten gereinigt werden können."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sichtfenster an Werkzeugmaschinen",
+  "prefix": "A",
+  "text": "Die Sichtfenster müssen beim Einsatz von Öl so angebracht werden, dass sie bei einer Verpuffung durch den Innendruck nicht nach außen geschleudert werden können. D.h. die Fenster müssen mindestens den Innendruck bis zum Ansprechen der Druckentlastungsklappen aushalten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sichtfenster an Werkzeugmaschinen",
+  "prefix": "A",
+  "text": "Die Halterung des Sichtfensters ist so zu gestalten, dass mit erhöhtem manuellem Kraftaufwand das Fenster nach innen gedrückt werden kann."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Sichtfenster an Werkzeugmaschinen",
+  "prefix": "A",
+  "text": "Der Einsatz von Panzerglasscheiben ist auf ein Minimum zu reduzieren und mit der OEM-X Projektplanung und der technischen OEM-X Fachabteilung abzustimmen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "A",
+  "text": "Es sind nur beidseitig geschützte Polycarbonatscheiben mit Abdichtung der Schnittkante zulässig. 5.12 A Brandschutzmaßnahmen Brandschutzmaßnahmen bei Bearbeitung von und mit brennbaren Stoffen an Werkzeugmaschinen"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "A",
+  "text": "Die Notwendigkeit einer Löschanlage ist vom Maschinenlieferanten auf Basis einer Sicherheitsanalyse nachzuweisen. Die Sicherheitsanalyse ist Bestandteil des Angebots. Ergibt die Sicherheitsanalyse, dass eine Löschanlage erforderlich ist, dann sind die Brandschutzmaßnahmen mit den einzelnen Werken abzustimmen.."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "A",
+  "text": "Der Einbau zugelassener, geeigneter und wartungsfreier Druckentlastungseinrichtungen ist vorzusehen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "A",
+  "text": "Die Druckentlastungen geben bei Entstehung eines Überdrucks im gekapselten Bearbeitungsraum, z.B. bei Explosion oder Verpuffung, eine Entlastungsöffnung frei. Nach Entweichen des Überdrucks muss die Öffnung wieder automatisch schließen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "A",
+  "text": "Die Druckentlastungseinrichtung ist auf dem „Dach“ der Arbeitsraumverkleidung zu installieren, sowie mit Flammrückhaltesystemen auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "A",
+  "text": "Die Blechverkleidungen sind mit Labyrinthen so zu gestalten, dass ein Austreten von Flammen nicht möglich ist."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "A",
+  "text": "Die Schutztüren sind so zu verankern, dass sie bei Bildung eines Überdrucks im Bearbeitungsraum durch eine Verpuffung, bis zum Ansprechen der Druckentlastungsklappe, nicht nach außen aufgedrückt werden können."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "A",
+  "text": "Das Austreten einer Stichflamme durch Türspalte muss verhindert werden. Hierzu sind entsprechende Labyrinthe an den Türen einzusetzen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "A",
+  "text": "Beim Beladen während der Bearbeitung darf zwischen Arbeitsraum und Beladeraum (speziell bei Bearbeitungszentren und Beladeplätzen bei Maschinen mit Vorrichtungswagen) kein Gasaustausch möglich sein, da sonst im Verpuffungsfall am Beladeplatz eine Gefährdung des Werkers besteht."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "A",
+  "text": "Konstruktionsbedingte Öffnungen (Rücklauf Kühlschmierstoff und Späne vom Beladeplatz im Arbeitsraum bzw. Spänekanal) müssen mit speziellen Klappen verschlossen werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "A",
+  "text": "Der Lieferant muss für die zu liefernden Maschinen/Anlageumfänge gemäß Sicherheit von Maschinen – Grundbegriffe, allgemeine Gestaltungsanleitsätze (DIN EN ISO 12100), eine Gefährdungsanalyse für Feuer- und Explosionsgefährdung erstellen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "A",
+  "text": "Ferner ist nach DIN EN 13478 die Brandgefahr an der Maschine zu minimieren und zu beschreiben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "A",
+  "text": "Die Sicherheitsanalysen nach (DIN EN ISO 12100 und DIN EN 13478) sind Bestandteil des Angebotes, sowie aller daraus resultierenden Maßnahmen an der Maschine."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "?",
+  "text": "Wenn die Risikobeurteilung des Lieferanten eine Brandschutzeinrichtung erforderlich macht, ist zusätzlich eine automatisch wirkende Absperrklappe zu installieren, die im Brandfall schließt. D.h. bei ausgeschalteter Maschine muss die automatische Absperrklappe geschlossen sein, vgl. VDI3802."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "?",
+  "text": "Ausführung Absperrklappe: WKST-Nr.1.0037, ST37-2/S235JR, außen grundiert und lackiert (schwarz), geschweißt, in schwerer öldichter/ staubdichter Industrieausführung, mit Flanschverbindung, Blattstellung von außen erkennbar, ohne inneren Anschlag. Lochblechabdeckung für bewegte Teile außen, muss gegen einen Differenzdruck von mindestens der doppelten Pressung des Ventilators öffnen, energielos schließend (innerhalb 5 Sekunden)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "?",
+  "text": "Der Einsatz von Schnellschlussklappen ist mit der OEM-X Fachabteilung abzustimmen"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "?",
+  "text": "Generell müssen Anlagen zur Absaugung brennbarer Luftverunreinigungen und explosionsfähiger Gemische (z.B. Gehäuse, Absaugrohre) aus leitfähigen oder elektrostatisch ableitfähigen Werkstoffen hergestellt und durchgehend geerdet sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Brandschutzmaßnahmen",
+  "prefix": "?",
+  "text": "Beim Einsatz eines Vorabscheiders ist dieser zündquellenfrei auszuführen, das heißt, im Vorabscheider selbst befinden sich auf der Rohgasseite keine bewegten Teile oder elektrische Betriebsmittel mit Oberflächentemperaturen über der Zündtemperatur. Der Absaugventilator befindet sich auf der Reinluftseite"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Abluft prozessbedingt",
+  "prefix": "?",
+  "text": "In einzelnen Gebäuden können die Maschinen nicht an zentrale Absauganlagen angeschlossen werden. Hier kann es erforderlich sein, dezentrale Einzelfilter mitzuliefern. Eine Abstimmung mit der OEM-X-Fachabteilung zu Fabrikat und Typfreigabe ist zwingend erforderlich. 5.13 AM Abluft prozessbedingt"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Absaugstutzen.",
+  "prefix": "A",
+  "text": "Die Absaugöffnung (Stutzen) darf nicht im direkten Kühlschmierstoffstrahl, der durch Werkzeugbewegungen bzw. KSS-Einbringung entstehen kann oder in der Hauptflugrichtung von Spänen und Staub, montiert sein. Es sind hierbei die freigegeben Spänerückhaltesysteme einzusetzen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Absaugstutzen.",
+  "prefix": "A",
+  "text": "Der Stutzendurchmesser ist unter Zugrundelegung der Absaugmenge und der oben beschriebenen Strömungsgeschwindigkeiten zu dimensionieren. Normflansche nach DIN EN 12220 sind einzusetzen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Absaugstutzen.",
+  "prefix": "A",
+  "text": "Eine alternative Ausführung statt manueller Drosselklappe ist ein Volumenstromregler in die Absaugleitung zu integrieren und wenn erforderlich ist vom Lieferanten ein Partikel- Vorabescheiter einzusetzen. Dies wird nach Absprache mit dem OEM-X Projektleiter und technisch verantwortlichen OEM-X Fachbereich ausgeführt."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Absaugstutzen.",
+  "prefix": "A",
+  "text": "Eine Überwachungseinheit Maschinenabsaugung (ÜMA) ist vom Lieferanten in die Absaugleitung zu integrieren, die die benötigte Absaugleistung überwacht. Das Signal der ÜMA ist in der Maschinensteuerung auszuwerten. Die ÜMA liefert als Freigabe der Maschine das Signal „Strömung vorhanden und Sollvolumenstrom eingehalten“. Die Ausführungsvarianten für die verschiedenen Werke sind mit dem OEM-X Projektleiter und der technischen OEM-X Fachabteilung abzustimmen und schriftlich freizugeben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Absaugstutzen.",
+  "prefix": "A",
+  "text": "In mechanischer Fertigung mit Kühlschmierstoff Emulsion kann alternativ auch ein Strömungssensor gemäß Materialfreigabeliste zur Überwachung der Absaugleistung in der Rohrleitung eingesetzt werden. Dies ist mit dem OEM-X Projektleiter und der technischen OEM-X Fachabteilung vorab zu vereinbaren und schriftlich freizugeben"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Absaugstutzen.",
+  "prefix": "A",
+  "text": "Wird eine Regelung/Steuerung der Absaugleistung (in Abhängigkeit von der Bearbeitungssituation bzw. Beladeöffnung geöffnet oder geschlossen) umgesetzt, dann muss bei Abschaltung der Anlage die Klappenstellung „Mindestmenge“ (= Absaugmenge während Bearbeitung) angefahren werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Absaugstutzen.",
+  "prefix": "A",
+  "text": "Der Abluftstrom ist so auszulegen, dass sich ein stets in den Maschinenraum gerichteter Sperrluftstrom einstellt. Die abzusaugenden Abluftmengen sind vom Maschinenlieferanten nach Maßgabe der sicherheitstechnischen Anforderungen, ggf. unter Berücksichtigung von Druckentlastungsflächen, so wie nach Maßgabe der Arbeitsplatzhygiene (emissionsdichte Maschinen, Arbeitsplatzgrenzwerte) zu berechnen. Luftverdrängende Bewegungen im Arbeitsraum sind zu berücksichtigen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Absaugstutzen.",
+  "prefix": "A",
+  "text": "In Sonderfällen, insbesondere zur Minimierung der Absaugmengen bzw. bei sehr beengten Maschineninnenraumverhältnissen, sind innerhalb der Bearbeitungsmaschine Erfassungselemente wie Düsenplattenhauben, Drall-/ Wirbelhauben oder Spänetore (gem. VDI2262 Blatt 4) einzusetzen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Absaugstutzen.",
+  "prefix": "A",
+  "text": "Grundsätzlich ist für die Absaugung in der Konstruktionsphase die zuständige technisch verantwortlichen OEM-X Fachbereich einzubinden. 5.13.2 Situativ können sich ergänzend folgend zusätzliche Anforderungen ergeben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Absaugstutzen.",
+  "prefix": "A",
+  "text": "Achtung – Emulsionsnebel, welcher aus den Maschinen abgesaugt wurde, darf aus Gründen der Keim- und Pilzbildung „nicht mehr“ dem Arbeitsprozess zugeführt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Absaugstutzen.",
+  "prefix": "A",
+  "text": "Spänerückhaltung an der Arbeitsmaschine: Bei KSS/Öl oder auch MMS oder Trocken Bearbeitung ist ein Absaugstutzen mit Gewebe erforderlich, welcher die Späneabsaugung verhindert. Das Gewebe muss automatisch gereinigt werden (mit KSS/Öl beziehungsweise bei MMS oder Trockenbearbeitung durch Druckluft). Ein manuelles Reinigen durch den Werker ist nicht zulässig."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Absaugstutzen.",
+  "prefix": "A",
+  "text": "Es ist erforderlich die Einrichtung zur Spänerückhaltung für Wartungszwecke leicht entfernbar bzw. demontierbar auszulegen, ohne den Arbeitsraum zu betreten. Spänerückhaltung für Späne >2cm mit automatischem Spanspüler zur Reinigung des Spänestops, leicht entnehmbar, ausgeführt mit flexiblem, schwer entflammbaren Schlauch, Durchmesser abhängig von der Luftleistung."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Absaugstutzen.",
+  "prefix": "A",
+  "text": "Ein automatisches Ablaufsystem zur Rückführung von KSS in der Absaugung in die Maschine ist erforderlich."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Anschluss an die CO -Löschzentrale nur bei Öl als Kühlschmierstoff",
+  "prefix": "A",
+  "text": "Eine Minimierung der Absaugung von Metallspänen und -schlamm durch Luftverwirbelung ist erforderlich. 5.14 A Anschluss an die CO -Löschzentrale nur bei Öl als Kühlschmierstoff 2"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Anschluss an die CO -Löschzentrale nur bei Öl als Kühlschmierstoff",
+  "prefix": "A",
+  "text": "Pro Bearbeitungsraum ist nach Absprache mit der verantwortlichen technischen OEM-X Fachabteilung eine Öffnung für den Anschluss einer CO²-Löschanlage vorzusehen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Anschluss an die CO -Löschzentrale nur bei Öl als Kühlschmierstoff",
+  "prefix": "A",
+  "text": "Die CO²-Anlage ist nicht Umfang des Maschinenlieferanten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Anschluss an die CO -Löschzentrale nur bei Öl als Kühlschmierstoff",
+  "prefix": "A",
+  "text": "Die Thermofühler werden nachträglich von der verantwortlichen technischen OEM-X Fachabteilung in die Maschinen bzw. Absaugleitung eingebaut."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Anschluss an die CO -Löschzentrale nur bei Öl als Kühlschmierstoff",
+  "prefix": "A",
+  "text": "Die steuerungstechnische Verarbeitung des CO²-Signals ist mit der verantwortlichen technischen OEM-X Fachabteilung abzuklären."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Zugänglichkeiten der Maschinen für Instandsetzungsarbeiten",
+  "prefix": "A",
+  "text": "Bei spanender Bearbeitung von Magnesium müssen besondere Sicherheitseinrichtungen vorgesehen werden. Eine Rücksprache mit der verantwortlichen technischen OEM-X Fachabteilung ist zwingend erforderlich. 5.15 AM Zugänglichkeiten der Maschinen für Instandsetzungsarbeiten"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Zugänglichkeiten der Maschinen für Instandsetzungsarbeiten",
+  "prefix": "AM",
+  "text": "Alle schweren Baugruppen und Maschinenelemente (größer 16kg) müssen nach oben oder"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Zugänglichkeiten der Maschinen für Instandsetzungsarbeiten",
+  "prefix": "AM",
+  "text": "Um dies zu ermöglichen, ist zu beachten, dass Installationen (Kabelkanäle, Kühlschmierstoff- leitungen, Hydraulikleitungen, usw.) so verlegt werden, dass die Einheiten nach oben frei zugänglich sind (ggf. Schnittstelle)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Zugänglichkeiten der Maschinen für Instandsetzungsarbeiten",
+  "prefix": "AM",
+  "text": "Die Installationen dürfen auf keinen Fall beidseitig an den auszubauenden Einheiten verlaufen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Zugänglichkeiten der Maschinen für Instandsetzungsarbeiten",
+  "prefix": "AM",
+  "text": "Geeignete Zugänge in die Produktionsmittel sind vorzusehen (z.B. oberer Türrahmen einfach mit Werkzeug demontierbar, um mit der angehobenen Last durchfahren zu können)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Zugang zu den Baugruppen (Wartungs- und Instandhaltungsbühnen)",
+  "prefix": "AM",
+  "text": "Montageeinrichtungen mit Schutzumrandungen müssen beidseitig zugänglich sein, um Einstell- und Reparaturarbeiten schnell ausführen zu können. 5.16 AM Zugang zu den Baugruppen (Wartungs- und Instandhaltungsbühnen)"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Ausbauvorrichtungen und Wartungsmittel",
+  "prefix": "AM",
+  "text": "Wartungsstege, Podeste, Treppen und Aufgänge nach Bau- und UV-Vorschriften (alle zu wartenden und instand zusetzenden Maschinenteile wie z.B. Motoren, Portale, Wechsler usw. müssen von einer festen Trittfläche aus zugänglich sein). Siehe: Sicherheit von Maschinen - Grundbegriffe, allgemeine Gestaltungsanleitsätze. 5.17 AM Ausbauvorrichtungen und Wartungsmittel"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Ausbauvorrichtungen und Wartungsmittel",
+  "prefix": "AM",
+  "text": "Es müssen Hilfsmittel für die Wartung und Instandsetzung mitgeliefert werden, die zum Ausbau von Bauteilen an Produktionsmitteln benötigt werden (Motorspindeln, Synchron- Linearmotoren, unzugängliche Motoren, Ventilatoren, Pumpen in Lärmschutzkabinen etc.)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Ausbauvorrichtungen und Wartungsmittel",
+  "prefix": "M",
+  "text": "Zum Aus- und Einbau von Komponenten über 16kg ist ein hoch genug liegender Montageträger, Ausbauhilfe (min. 600mm) für bauseitige Rollkatze erforderlich. Die Baugruppen müssen an einer gut zugänglichen Stelle für den Abtransport bereitgestellt werden können."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Ausbauvorrichtungen und Wartungsmittel",
+  "prefix": "AM",
+  "text": "Einstellhilfen und Hilfsmittel die zum Einrichten, Kalibrieren und zum Betrieb der Anlagen benötigt werden, gehören zum Lieferumfang (für die Anlage und nicht für das Produkt)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Ausbauvorrichtungen und Wartungsmittel",
+  "prefix": "AM",
+  "text": "Einstellhilfen für Justageeinrichtungen sind mit oberer und unterer Toleranz zu liefern (falls benötigt)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Mechanische Bauelemente / Komponenten",
+  "prefix": "AM",
+  "text": "Ein- und Ausbauhilfen für Werkzeuge und Spannmittel sind mitzuliefern. Umfang und Ausführung der Hilfsmittel nach Absprache mit der OEM-X Projektleitung und der technischen OEM-X Fachabteilung. 5.19 AM Mechanische Bauelemente / Komponenten"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Baugleiche Komponenten innerhalb einer Anlage",
+  "prefix": "AM",
+  "text": "Sind aus den Freigegebenen Bezugsquellen, Werkskomponenten und Materialfreigabelisten zu entnehmen. 5.20 AM Baugleiche Komponenten innerhalb einer Anlage"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Baugleiche Komponenten innerhalb einer Anlage",
+  "prefix": "AM",
+  "text": "Innerhalb einer Anlage sind baugleiche Komponenten ohne Variationen einzusetzen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Antriebe elektrisch (Norm Motoren)",
+  "prefix": "M",
+  "text": "Innerhalb einer Produktionslinie sind Lieferantenübergreifend für identische Funktionsabläufe (z.B. Stau-, Rollen- oder Heberförderer usw.) auch identische Komponenten (z.B. Wälzlager, Getriebe-Typen, Motoren, Führungen usw.) einzusetzen. Die Koordination erfolgt durch den jeweiligen GU der Produktionslinie. 5.21 AM Antriebe elektrisch (Norm Motoren)"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Drehstrom-Asynchronmotoren",
+  "prefix": "AM",
+  "text": "Die Anbaumaße dürfen nicht von den Normgrößen Vorzugsreihen abweichen (z.B. Welle-, Flanschdurchmesser)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Ausführung von Motoren",
+  "prefix": "M",
+  "text": "Werkspezifisch ist für Antriebseinheiten größer gleich 37 KW und für die direkt angebundene mechanischen Komponenten, nach Rücksprache mit dem OEM-X Projektleiter und technischen Fachbereich, eine Schwingungsüberwachung (Wälzlager-Stoßimpuls, Anlagen- Gesamtschwingung) mit freigegebenen Komponenten gemäß Lieferfreigabe OEM-X-2 und werkspezifischer Ergänzungen erforderlich. 5.21.2 AM Ausführung von Motoren"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Ausführung von Motoren",
+  "prefix": "AM",
+  "text": "Wenn das Typenschild des Antriebes in seiner Einbauposition nicht ohne entfernen von Schutzeinrichtungen gut lesbar ist, muss ein 2-tes Typenschild an einem geeigneten Ort gut lesbar angebracht werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Servomotoren",
+  "prefix": "AM",
+  "text": "Typengleiche Antriebe sind mit gleichem Befestigungslochbild und maßlich identischer Antriebswelle einzusetzen. 5.21.3 AM Servomotoren"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Getriebe mit Flansch/Welle zum Anbringen unterschiedlicher Antriebe",
+  "prefix": "M",
+  "text": "Es sind nur Stirnrad- und Kegelradgetriebe vorzugsweise in der Fußausführung zugelassen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Getriebemotoren",
+  "prefix": "AM",
+  "text": "Angebotsanfragen bei den Getriebeherstellern sind mit Hinweis auf die Einhaltung der Liefervorschriften für die entsprechenden Werke anzufragen. 5.22.2 AM Getriebemotoren"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Getriebemotoren",
+  "prefix": "AM",
+  "text": "Ausführung der Motoren zu den Getrieben sind gemäß Kapitel 5.21 auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Getriebemotoren",
+  "prefix": "AM",
+  "text": "Getriebemotoren dürfen nicht hängend (Motor nach unten) angeordnet werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Getriebemotoren",
+  "prefix": "AM",
+  "text": "Wellen-Naben-Verbindungen sind für dynamische Anwendungen mit Spannsatz auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schaltgetriebe/Regelgetriebe",
+  "prefix": "AM",
+  "text": "Die Baugrößen und Übersetzungen sind den Material-Freigabe-Listen der Werke zu entnehmen und mit der verantwortlichen technischen OEM-X Fachabteilung abzustimmen. 5.22.3 AM Schaltgetriebe/Regelgetriebe"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schaltgetriebe/Regelgetriebe",
+  "prefix": "?",
+  "text": "Schaltgetriebe/Regelgetriebe sind mit Flansch/Welle zum Anbringen unterschiedlicher Antriebe auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Mechanisch",
+  "prefix": "AM",
+  "text": "Wenn Bremsen zum Einsatz kommen sind diese grundsätzlich als Betriebsbremsen auszulegen. Die Funktion ist als Haltebremse auszuführen (keine Positionierung über die Bremse zulässig). 5.24 AM Kupplungen 5.24.1 AM Mechanisch"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Elektrisch",
+  "prefix": "?",
+  "text": "Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.24.2 AM Elektrisch"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Hydraulisch",
+  "prefix": "?",
+  "text": "Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.24.3 AM Hydraulisch"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Pneumatisch",
+  "prefix": "?",
+  "text": "Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.24.4 AM Pneumatisch"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Statisch (Elastisch)",
+  "prefix": "?",
+  "text": "Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.24.5 AM Statisch (Elastisch)"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kugelrollspindel / Kugelgewindetrieb",
+  "prefix": "?",
+  "text": "Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.24.6 AM Kupplungen aus Aluminium sind für Antriebe nicht zugelassen. 5.25 AM Kugelrollspindel / Kugelgewindetrieb Kugelgewindetrieb nach DIN 69051-2 bzw. Kugelgewindemutter nach DIN 69051-5"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kugelrollspindel / Kugelgewindetrieb",
+  "prefix": "AM",
+  "text": "Alle Durchmesser müssen kleiner sein als der Kerndurchmesser Gewindetrieb."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kugelrollspindel / Kugelgewindetrieb",
+  "prefix": "A",
+  "text": "Die Kugelrollspindel / Kugelgewindetrieb im Nassbereich ist vor Kühlschmierstoff und Spänen durch Doppelabstreifer und Abdeckungen zu schützen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kugelrollspindel / Kugelgewindetrieb",
+  "prefix": "AM",
+  "text": "Das Axiallager, die Kugelumlaufmutter und das Führungslager der Kugelrollspindel / Kugelgewindetrieb müssen geschmiert werden (keine Lebensdauerschmierung)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kugelrollspindel / Kugelgewindetrieb",
+  "prefix": "AM",
+  "text": "Es sind Kugelrollspindel / Kugelgewindetrieb und Mutter nach DIN 69051-2+5 zu verwenden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kugelrollspindel / Kugelgewindetrieb",
+  "prefix": "AM",
+  "text": "Passfeder oder Aufschrumpfung zwischen Motor und Kugelrollspindel / Kugelgewindetrieb sind nicht erlaubt (Verbindung nur mit Spannelementen)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kugelrollspindel / Kugelgewindetrieb",
+  "prefix": "AM",
+  "text": "Der Motor darf nicht als Führungslager der Kugelrollspindel / Kugelgewindetrieb verwendet werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Wälzlager",
+  "prefix": "?",
+  "text": "Die Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.27 AM Lager Es sind Lager nach DIN EN ISO einzusetzen 5.27.1 AM Wälzlager"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Spindellager",
+  "prefix": "?",
+  "text": "Die Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.27.2 AM Spindellager"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kugelbüchsen",
+  "prefix": "?",
+  "text": "Die Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.27.3 AM Kugelbüchsen"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Flanschlager",
+  "prefix": "?",
+  "text": "Die Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.27.4 AM Flanschlager"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Stehlager",
+  "prefix": "?",
+  "text": "Die Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.27.5 AM Stehlager"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Gelenkkopf/Gelenklager/Gabelkopf",
+  "prefix": "?",
+  "text": "Die Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.27.6 AM Gelenkkopf/Gelenklager/Gabelkopf"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Gleitlager",
+  "prefix": "?",
+  "text": "Die Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.27.7 AM Gleitlager"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Antriebsriemen",
+  "prefix": "?",
+  "text": "Die Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.28 AM Antriebsriemen"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Antriebsriemen",
+  "prefix": "AM",
+  "text": "Ein Umschlingungswinkel des Riemens ist unter 90° nicht zulässig."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Antriebsriemen",
+  "prefix": "AM",
+  "text": "Die Durchmesser der Riemenscheiben sollten so groß wie möglich gewählt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Antriebsriemen",
+  "prefix": "AM",
+  "text": "Es dürfen grundsätzlich nur ölbeständige Antriebsriemen verwendet werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Antriebsriemen",
+  "prefix": "AM",
+  "text": "Eine Einstellanweisung und die Bezeichnung des Riemens, sowie die Frequenzangabe für die Riemenspannung muss gut sichtbar angebracht werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Antriebsriemen",
+  "prefix": "AM",
+  "text": "Es ist notwendig, bei der Konstruktion der Einheiten darauf zu achten, dass alle Maschinenelemente, die Flüssigkeit (Öl, Kühlschmierstoffe usw.) abgeben können (auch im Falle einer Leckage), nicht in die Nähe der Antriebsriemen installiert werden dürfen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Riemenscheiben",
+  "prefix": "AM",
+  "text": "Für Riemenscheiben darf kein Aluminium eingesetzt werden, ausgenommen Zahnriemenscheiben für Transporteinrichtungen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Riemenscheiben",
+  "prefix": "AM",
+  "text": "Die Riemenscheiben für alle Antriebsriemen sind aus Edelstahl, Stahl oder Grauguss herzustellen. Die Werkstoffauswahl der Riemenscheiben ist entsprechend dem Einsatzfall auszulegen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Drehverteiler für innere Kühlschmierstoffe",
+  "prefix": "A",
+  "text": "Die Drehverteiler dürfen nicht in der Nähe von Antriebsriemen angebracht werden (Schutz der Antriebsriemen vor undichten Dreheinführungen)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Drehverteiler für innere Kühlschmierstoffe",
+  "prefix": "A",
+  "text": "Die Drehverteiler müssen so angeordnet sein, dass sie gut zugänglich und einzeln austauschbar sind. Außerdem ist darauf zu achten, dass die Tropfflüssigkeit bei Undichtheiten innerhalb des Maschinenbereiches gehalten und definiert abgeführt wird."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Drehverteiler für innere Kühlschmierstoffe",
+  "prefix": "A",
+  "text": "Jede defekte Dreheinführung muss einzeln erkennbar sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Drehverteiler für Energie",
+  "prefix": "A",
+  "text": "Die Kühlschmierstoff-Zuleitung zu den Drehverteilern muss eine ausreichende Reserve haben, damit Druckschwankungen, bedingt durch unterschiedliche Werkzeuge, ausgeglichen werden können. 5.31 AM Drehverteiler für Energie"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Energieführungsketten",
+  "prefix": "AM",
+  "text": "Werden Drehverteiler für Energie eingesetzt, so sind diese mit der technischen OEM-X Fachabteilung abzustimmen. 5.32 AM Energieführungsketten"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Energieführungsketten",
+  "prefix": "AM",
+  "text": "Die Schläuche/Leitungen sind getrennt (Trennstege) zu führen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Energieführungsketten",
+  "prefix": "AM",
+  "text": "Die Schläuche/Leitungen dürfen sich im Schlepp ab der Zugentlastung nicht kreuzen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Energieführungsketten",
+  "prefix": "AM",
+  "text": "Die Schläuche/Leitungen dürfen nicht durch mehrere Ketten geführt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Energieführungsketten",
+  "prefix": "AM",
+  "text": "Die Schlepps sind in allen Ebenen parallel zu führen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Energieführungsketten",
+  "prefix": "AM",
+  "text": "Auf Gleitstücke darf nur nach Rückfrage verzichtet werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Energieführungsketten",
+  "prefix": "AM",
+  "text": "Kettenschleifen nach oben sind zu vermeiden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Energieführungsketten",
+  "prefix": "AM",
+  "text": "Kettenglieder müssen beidseitig zu öffnen und einzeln tauschbar sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Energieführungsketten",
+  "prefix": "AM",
+  "text": "Kabel müssen ohne Steckerdemontage tauschbar sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Energieführungsketten",
+  "prefix": "AM",
+  "text": "In Schutzschläuchen/Energieführungsketten dürfen keine Kabelbinder verwendet werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Energieführungsketten",
+  "prefix": "AM",
+  "text": "Alle Komponenten müssen eindeutig gekennzeichnet sein (Bestellnummer, Typ)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "AM",
+  "text": "Im Spänebereich und Warmbearbeitung sind je nach Anwendungsfall Energieführungsketten in geschlossener Stahlausführung zu verwenden. Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.33 AM Fördertechnik 5.33.1 AM Allgemein"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "AM",
+  "text": "Stopper und Vereinzeler für Werkstück oder Palette sind mit einer Dämpfung auszurüsten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "AM",
+  "text": "Die Verkettungen und die Übergänge sind so zu gestalten, dass keine Flüssigkeiten auf den Hallenboden gelangen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Es ist erforderlich, dass um die Stützen ebenfalls Tropfbleche angeschweißt sind."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Die Wannen müssen ein Gefälle zum Ablauf haben (rückwärtige Maschine)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Der Ablauf ist Lieferumfang des Verkettungslieferanten (falls erforderlich mit Verrohrung)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Es ist erforderlich die Verrohrung ist so zu verlegen, dass sie nicht als Trittstufe benutzt werden kann."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Der Ablauf ist so zu gestalten, dass er nicht verstopft."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "AM",
+  "text": "An den Verkettungsdurchgängen, Schwenkbereichen und bei Rollenbahn- Niveauunterschieden, sind Vorlauf- und Rücklaufsperren anzubringen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "AM",
+  "text": "Bei elektromechanischen Antrieben ist einer Beschädigung des Transportsystems durch Antriebsüberlast vorzubeugen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "AM",
+  "text": "Es sind nur „vorgelängte“ Rollenketten nach DIN ISO 606, Kettenräder nach DIN 8192 zugelassen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "AM",
+  "text": "Kettenschlösser/Verbindungen sind farbig zu kennzeichnen (z.B. Kunststoffclips)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "AM",
+  "text": "Für eine automatische Nachspannmöglichkeiten bei Riemen- und Kettenantrieben ist zu sorgen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "M",
+  "text": "Wartungsbühnen müssen mit Licht und Stromanschluss 230V und 400V versehen sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Hubschritt und Schiebetransport",
+  "prefix": "AM",
+  "text": "Die Staustrecken sind möglichst kurz zu halten, damit keine hohen Kräfte am Stopper/Vereinzeler auftreten. Bei der Auslegung sind die Materialien, Gewichte sowie die Werkstückgeschwindigkeit mit zu berücksichtigen. 5.33.2 AM Hubschritt und Schiebetransport"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Hubschritt und Schiebetransport",
+  "prefix": "AM",
+  "text": "Bei mechanischem Antrieb des Hubbalkens ist eine Überlastsicherung notwendig, um mechanische Schäden zu verhindern."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Hubschritt und Schiebetransport",
+  "prefix": "A",
+  "text": "NC/Servo-Antriebe sind für den Hubschritttransport bevorzugt einzusetzen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Hubschritt und Schiebetransport",
+  "prefix": "AM",
+  "text": "Der Werkstückmitnehmer (z.B. Stift) muss das schwächste Glied des Transportsystems sein (Sollbruchstelle)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Hubschritt und Schiebetransport",
+  "prefix": "A",
+  "text": "Ein Auswechseln beschädigter Werkstückmitnehmer muss einfach, schnell und ohne Nacharbeit der Transportstange möglich sein (eingesetzte Segmente auf der Transportstange). Die Bohrungen für die Stifte in der Taktstange dürfen keine Sackbohrungen haben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Hubschritt und Schiebetransport",
+  "prefix": "AM",
+  "text": "Die Trag- und Laufrollen müssen gut gegen herausfallen und lösen gesichert sein (z.B. Kurvenrollen mit einer Kontermutter sichern)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Hubschritt und Schiebetransport",
+  "prefix": "AM",
+  "text": "Für die Lagerungen der Hubgestänge und Transportrollen muss die Schmierung auf die Lebensdauer der Maschine ausgelegt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Rollenbahnen für Werkzeug und Werkstückträger",
+  "prefix": "A",
+  "text": "Die in den Transportsystemen integrierten Dreheinrichtungen müssen mechanisch einstellbar sein (Winkellage). 5.33.3 AM Rollenbahnen für Werkzeug und Werkstückträger"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Rollenbahnen für Werkzeug und Werkstückträger",
+  "prefix": "A",
+  "text": "Die Transportrollen müssen einzeln nach oben demontierbar sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Rollenbahnen für Werkzeug und Werkstückträger",
+  "prefix": "A",
+  "text": "Es sind Rollen mit gut zugänglicher und einzeln einstellbarer Friktion zu verwenden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Rollenbahnen für Werkzeug und Werkstückträger",
+  "prefix": "A",
+  "text": "Die einzelnen Friktionen müssen einzeln und ohne Demontage eines Transportabschnittes tauschbar sein (außenliegende Friktion)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Rollenbahnen für Werkzeug und Werkstückträger",
+  "prefix": "A",
+  "text": "An allen Stellen, wo Werkstücke manuell entnommen oder beladen werden, ist darauf zu achten, dass die Transportrollen durchgehend sind. Zum Schutze der Rollen sind an diesen Stellen einfache Einlegehilfen und Abdeckbleche vorzusehen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Rollenbahnen für Werkzeug und Werkstückträger",
+  "prefix": "A",
+  "text": "In der Leichtmetallvorbearbeitung sind die Rollen aus Stahl auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Rollenbahnen für Werkzeug und Werkstückträger",
+  "prefix": "A",
+  "text": "Stahlrollen müssen gehärtet und geschliffen sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Rollenbahnen für Werkzeug und Werkstückträger",
+  "prefix": "A",
+  "text": "Beim Einsatz von Rollen aus Kunststoff mit ca. 85 Shore Härte A und einer hohen Kerbfestigkeit ist eine Absprache mit dem technischen OEM-X Fachbereich erforderlich."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Staurollenketten",
+  "prefix": "AM",
+  "text": "Antriebsart: selbstschmierende Umschlingungsketten, Zahnriemen oder Kegelräder sind zulässig. 5.33.4 AM Staurollenketten"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Staurollenketten",
+  "prefix": "AM",
+  "text": "Gut zugängliche, automatische Spannvorrichtungen müssen im Betrieb entstehende Längungen ausgleichen können."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Staurollenketten",
+  "prefix": "AM",
+  "text": "Kettenführung ist mit tauschbaren Laufleisten auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Staurollenketten",
+  "prefix": "AM",
+  "text": "Ein verklemmen der Kette durch Kleinteile (Schrauben, Stifte, Ventilteile usw.) ist ggf. mittels Abdeckklips auf den Zwischengliedern zu verhindern."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kunststoffketten",
+  "prefix": "AM",
+  "text": "Einzelne Elemente (Glieder) müssen tauschbar sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Gurttransport",
+  "prefix": "AM",
+  "text": "Automatische Spannvorrichtungen müssen vorhanden sein. Inhalt in Erstellung 5.33.6 AM Gurttransport"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstückträger",
+  "prefix": "AM",
+  "text": "Der Gurt ist an den Umlenkungen über Führungsrollen zu führen. 5.33.7 AM Werkstückträger"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstückträger",
+  "prefix": "AM",
+  "text": "Folgende Bauteile/Komponenten sind verschleißarm und leicht tauschbar auszuführen: - Laufflächen, - Stopperanschläge, - Werkstückauflagen, - Indexierungen, - Lauf- und Stützrollen, - Führungsleisten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kipp und Drehstationen",
+  "prefix": "AM",
+  "text": "Die Werkstückträger sind dauerhaft durch gut lesbare Schilder zu kennzeichnen. Nummerierung z.B. durch Zahlen. 5.33.8 AM Kipp und Drehstationen"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kipp und Drehstationen",
+  "prefix": "A",
+  "text": "Müssen Antriebe für Kipp- und Drehstationen im Nassbereich angeordnet werden, ist es erforderlich diese hydraulisch auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kipp und Drehstationen",
+  "prefix": "AM",
+  "text": "Die Kipp- und Drehstationen müssen mit einstellbaren Festanschlägen versehen werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kipp und Drehstationen",
+  "prefix": "AM",
+  "text": "In den Kipp- und Drehstationen müssen Vor- und Rücklaufsperren vorhanden sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kipp und Drehstationen",
+  "prefix": "A",
+  "text": "Ist eine Kipp- und Drehstation zwischen zwei Hub- oder Schiebetransporten angeordnet, ist es erforderlich die Werkstücke formschlüssig zu halten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kipp und Drehstationen",
+  "prefix": "M",
+  "text": "Die Elektroantriebe der Kipp- und Drehstationen müssen frequenzgeregelt nach OEM-X-3 ausgeführt werden. Die Antriebe sind entsprechend OEM-X-3, OEM-X-2 und den werkspezifische Vorschriften auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Obertransfer Protallader",
+  "prefix": "AM",
+  "text": "Die Schmierung der Zahnstangen muss entsprechend der Lebensdauer der Maschine ausgelegt sein. Eine Überschmierung muss verhindert werden"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Obertransfer Protallader",
+  "prefix": "AM",
+  "text": "Die Zahnstangen sind so anzuordnen, dass keine Fremdkörper auf der Verzahnung liegen bleiben können."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Obertransfer Protallader",
+  "prefix": "A",
+  "text": "Das Portalgestell muss über Justierplatten und Justierschrauben ausrichtbar sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Obertransfer Protallader",
+  "prefix": "AM",
+  "text": "Der Antriebsstrang muss komplett über Formschluss ausgeführt sein. Presssitze auch innerhalb von Getrieben sind nicht zulässig. Zur Vermeidung von Sachschäden müssen die Fahrbereiche und Fahrpositionen direkt abgefragt werden (indirekte Messsysteme sind nicht ausreichend)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Obertransfer Protallader",
+  "prefix": "AM",
+  "text": "Jede Achse muss einzeln und entkoppelt angetrieben werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Die Führungen, in Art und Ausführung, müssen durch den technisch verantwortlichen OEM-X Fachbereich freigegeben werden. 5.33.10 AM Seil- und Riemenlifter"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Die Hubmotor-Ausführung muss mit der technischen verantwortlichen OEM-X Fachabteilung abgestimmt und freizugeben werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Kettenlifte sind nicht zugelassen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Die Seilhubantriebe sind unten zu installieren."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Der Seiltrommelmotor muss unabhängig von der Seiltrommel tauschbar sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Der Seiltrommelmotor muss beidseitig flanschbar sein. Die Seiltrommel ist mit durchgehender Welle auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Seiltrommelmotoren dürfen keine Passfedernut haben (z.B. Kupplungsbefestigung über Spannsätze)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Bei Elevatoren, die nicht umgangen werden können, ist der Antrieb redundant auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Es sind zwei identische Tragelemente pro Hubeinrichtung erforderlich."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Für Riemen und Seile ist die Entlastungsüberwachung mittels abgefragtem Federpaket zu realisieren (Schlaffseilüberwachung)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Jedes einzelne Tragelement muss für die Gesamtlast ausgelegt sein (inklusive Sicherheitsfaktor)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Für die einzelnen Tragelemente ist eine Bruch- und Längungsüberwachung vorgeschrieben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Laufrollen und Räder müssen über Exzenterbolzen einstellbar und leicht austauschbar (keine Kurvenrollen) sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Linearführungen sind nur nach Rücksprache mit der verantwortlichen technischen OEM-X Fachabteilung zulässig."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Jede Übergabeposition muss unabhängig von allen anderen einstellbar sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Die Fixierung ist gegen Verdrehen zu sichern (nicht über den Kugelkopf am Gestänge)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Die Stellung der Fixierung ist direkt abzufragen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Es ist konstruktiv vorzusehen, dass der Lifttisch durch entsprechende Stellelemente nach eventuellen Crashfahrten notdürftig ausgerichtet werden kann."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Lifttisch und Gegengewicht sind über die Antriebswelle in jeder Position zu sichern (Sicherung elektrisch überwacht). Lifttisch und Gegengewicht sind in ihren Wartungspositionen über separate mechanische Sicherungen zu arretieren (Sicherung elektrisch überwacht)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Absturzsicherungen, für Fahrkorb und Gegengewicht, sind vorgeschrieben (Fallsicherung). Abweichungen nur mit Genehmigung der verantwortlichen technischen OEM-X Fachabteilung."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Ist ein Auslöseseil (Seil, Kette oder Zahnriemen) vorhanden, so müssen diese auf Abriss überwacht werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Die Spannrolle des Auslöseseils muss nachschmierbar oder mit wartungsarmen Kugellagern ausgeführt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Absturzsicherung wirkt mittels Bremszangen auf die Flach- oder Formprofile (Keilwirkung) und kann durch Aufwärtsfahrt entspannt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Eine freie Verlegung (hängend) der elektrischen Verkabelung ist der Installation in einer Energieführungskette vorzuziehen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Seil- und Riemenlifter",
+  "prefix": "AM",
+  "text": "Das Transportgut ist auf dem Lifttisch auf richtige Position abzufragen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Roboter Werkzeugwechselsystem (automatisch)",
+  "prefix": "AM",
+  "text": "Mechanische Vor- und Rücklaufsperren für das Transportgut sind vorgeschrieben. 5.33.11 AM Roboter Werkzeugwechselsystem (automatisch)"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Roboter Werkzeugwechselsystem (automatisch)",
+  "prefix": "AM",
+  "text": "Die Anbindung des Roboter-Werkzeug ist mit der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Roboter Werkzeugwechselsystem (automatisch)",
+  "prefix": "AM",
+  "text": "Die Lieferung muss nach DIN EN ISO 10218 erfolgen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstückspeicher",
+  "prefix": "AM",
+  "text": "Die mechanische Roboterschnittstelle ist nach EN ISO 9409-1 und -2 auszuführen. 5.33.12 A Werkstückspeicher"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstückspeicher",
+  "prefix": "A",
+  "text": "Bei Werkstückspeichern, die mit NC/Servo-Ladern befahren werden, ist pro Speicher ein Meisterfach festzulegen und im Programm als Nullpunkt zu verwenden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstückspeicher",
+  "prefix": "A",
+  "text": "Die Werkstückspeicher müssen Auffangwannen für den abtropfenden Kühlschmierstoff in der Nassbearbeitung haben. Es darf kein Kühlschmierstoff auf den Hallenboden gelangen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstückspeicher",
+  "prefix": "A",
+  "text": "Die Werkstücke müssen in den Speicherfächern, durch ihr Eigengewicht positioniert und gehalten werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstückspeicher",
+  "prefix": "A",
+  "text": "Die Speicherfächer sind zu nummerieren."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstückspeicher",
+  "prefix": "A",
+  "text": "An Schutzumzäunungen dürfen keine Funktionsbaugruppen befestigt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstückspeicher",
+  "prefix": "A",
+  "text": "Das Meisterfach ist mit einem „MF“ zu kennzeichnen und für den Normalbetrieb zu sperren."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstückspeicher",
+  "prefix": "A",
+  "text": "Jedes Speicherfach muss einzeln gesperrt / abgewählt werden können."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Separatoren und Ordnungsautomaten",
+  "prefix": "A",
+  "text": "Der Werkstückspeicher muss ohne einzulagern, durch getaktet werden können. 5.34 AM Kleinfördertechnik 5.34.1 AM Separatoren und Ordnungsautomaten"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Separatoren und Ordnungsautomaten",
+  "prefix": "AM",
+  "text": "Die Auskleidungen von Separatoren und Ordnungsautomaten dürfen nicht von den Beschichtungsstoffen der zu verbauenden Bauteilen/Komponenten und den Bauteilen/Komponenten selbst angegriffen werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Separatoren und Ordnungsautomaten",
+  "prefix": "AM",
+  "text": "Die Auskleidung und deren Klebstoffe dürfen keine Reaktionen mit Reinigern eingehen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Separatoren und Ordnungsautomaten",
+  "prefix": "AM",
+  "text": "Magnetkörper sind gegen Staub und Fremdkörper abzudecken."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Separatoren und Ordnungsautomaten",
+  "prefix": "AM",
+  "text": "Vereinzelungen, Führungen und Schikanen sind formstabil und verschleißfest auszuführen. Vor der Schraubenübergabe muss eine Schraubenvereinzelung installiert sein. Es sind nur Rechenvereinzeler (Verschiebung) für Schrauben einzusetzen, keine Drehvereinzeler."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Separatoren und Ordnungsautomaten",
+  "prefix": "AM",
+  "text": "Übergänge zwischen Ordnungsautomaten und Linearförderern sind schraub- und einstellbar auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Separatoren und Ordnungsautomaten",
+  "prefix": "AM",
+  "text": "Bauteilzuführungen sind mit Öffnungen für gezielten Schmutzaustrag zu versehen. Der Schmutz ist in geeigneten, entnehmbaren Behältnissen aufzufangen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Separatoren und Ordnungsautomaten",
+  "prefix": "AM",
+  "text": "In Ordnungsautomaten ist ein Überfüllschutz zu realisieren. Bei Überfüllung muss der Ordnungsautomat abschalten und Überfüllung melden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Separatoren und Ordnungsautomaten",
+  "prefix": "AM",
+  "text": "Vereinzelungen dürfen durch zu lange, zu kurze oder sonstige Ausschuss-Bauteile nicht beschädigt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Separatoren und Ordnungsautomaten",
+  "prefix": "AM",
+  "text": "Bauteilzuführungen und Vereinzelungen sind für Wartungs- und Reparaturzwecke leicht zugänglich anzuordnen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Separatoren und Ordnungsautomaten",
+  "prefix": "AM",
+  "text": "Die einfache Entnahmemöglichkeit von verklemmten Bauteilen muss vorgesehen werden. Abhängig von der Ausführung müssen Rückhaltemöglichkeiten vorgesehen werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Vakuumtechnik und Handling",
+  "prefix": "AM",
+  "text": "Zum Befüllen der Ordnungsautomaten sind Befülltrichter (Einweiser) erforderlich. Es darf kein Schüttgut neben die Ordnungsautomaten gelangen. 5.34.2 AM Vakuumtechnik und Handling"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Vakuumtechnik und Handling",
+  "prefix": "AM",
+  "text": "Bei der Verwendung von Ejektoren ist pro Saugwerkzeug ein Ejektor zu verwenden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Vakuumtechnik und Handling",
+  "prefix": "AM",
+  "text": "Saugseitig sind zwischen Vakuumerzeuger und Saugwerkzeug leicht tauschbare Filterelemente einzusetzen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Vakuumtechnik und Handling",
+  "prefix": "AM",
+  "text": "Zwischen Vakuumerzeuger und Saugwerkzeug sind möglichst kurze Leitungslängen zu realisieren."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Vakuumtechnik und Handling",
+  "prefix": "AM",
+  "text": "Bei Einsatz von Schläuchen ist auf Flexibilität und knickfreie Verlegung zu achten (OEM-X-4)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Vakuumtechnik und Handling",
+  "prefix": "AM",
+  "text": "Nach jedem Arbeitstakt ist saugseitig eine Ausblasfunktion vorzusehen (Reinigung von Schläuchen und Saugwerkzeugen)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Greifer",
+  "prefix": "AM",
+  "text": "Saugwerkzeuge sind durch elektrische Vakuumschalter abzufragen. 5.35 AM Handhabungseinrichtungen 5.35.1 AM Greifer"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Greifer",
+  "prefix": "AM",
+  "text": "Bei Energieausfall ist zu gewährleisten, dass die im Greifer befindlichen Werkstücke mechanisch sicher gehalten werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Greifer",
+  "prefix": "A",
+  "text": "Der Greifer ist über ein Stellelement (liegende Doppelplatte) mit Justierschrauben auszurichten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Greifersysteme",
+  "prefix": "A",
+  "text": "Bei Greifer ist eine mechanische Kollisionsüberwachung zu montieren. 5.35.2 M Greifersysteme"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schwenkeinheiten",
+  "prefix": "M",
+  "text": "Das Eurogreifersystem ist als Komplettsystem für Handling-, Prozess- und Geometriegreifer gemäß den werkspezifischen Vorgaben einzusetzen. 5.35.3 AM Schwenkeinheiten"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Manipulatoren",
+  "prefix": "?",
+  "text": "Werden Schwenkeinheiten / -zylinder eingesetzt, so sind diese mit den Fachabteilungen abzustimmen. 5.35.4 AM Manipulatoren"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Manipulatoren",
+  "prefix": "AM",
+  "text": "Die besonderen Ansprüche an die Arbeitsssicherheit sind zu beachten. (DIN_EN_14238 und werkspezifische Ergänzungen)"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schraubtechnik",
+  "prefix": "AM",
+  "text": "Ein HHG muss leicht zu bedienen sein (insbesondere die Produktaufnahme, das Verfahren und das Anfahren von Parkpositionen). Zudem muss das Gerät eine Arbeitserleichterung für den Mitarbeiter darstellen, ansonsten besteht die Gefahr der Nichtbenutzung, 5.36 AM Schraubtechnik"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schraubtechnik",
+  "prefix": "AM",
+  "text": "Die Auslegung der Schraubkomponenten und des Schraubfalls ist durch den Fachbereich \"Schraubtechnik\" genehmigungspflichtig (Reduzierung der Ersatzteilhaltung)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schraubtechnik",
+  "prefix": "AM",
+  "text": "Jede einzelne Spindel muss unabhängig von den anderen leicht demontierbar sein (Reparaturfreundlichkeit). Beim Austausch der Spindel darf die Justierung zum Schraubfall nicht verloren gehen => Justiervorrichtung."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schraubtechnik",
+  "prefix": "AM",
+  "text": "Die Spindel ist so auszuwählen, dass sich das zu erwartende maximale Enddrehmoment im Bereich bis 80% ihres maximalen Nenndrehmoments (Kalibrierwert der Spindel) befindet."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schraubtechnik",
+  "prefix": "AM",
+  "text": "Die Schraubspindel darf nicht abgeändert werden (z.B. Abdrehen der Getriebefläche etc.)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schraubtechnik",
+  "prefix": "AM",
+  "text": "Die Messaufnehmer sind direkt am Aufnehmer steckbar auszuführen. Der Drehmomentaufnehmer muss bei Schraubspindeln für Mechanisierungen direkt am Abtrieb montiert sein. Ein Getriebe (auch Winkelkopfgetriebe) zwischen Geber und Abtrieb ist nicht zulässig. Insbesondere Flachantriebe („Engraumvorsatz“, „Offenmaulabtrieb“) sind weder bei EC- Handschraubern als auch bei Schraubspindeln für Mechanisierungen zulässig."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schraubtechnik",
+  "prefix": "AM",
+  "text": "Zusätzliche Führungen oder Lagerungen der federnden Werkzeugaufnahmen (Schlüsselkopf) sind zu vermeiden und nur in Absprache mit den technisch verantwortlichen OEM-X Fachbereich erlaubt. Sollte eine Führung erforderlich sein, so ist konstruktiv darauf zu achten, dass während des Schraubprozesses der Schlüsselkopf keinen Kraftschluss in Form von Reibung mit der Lagerung bzw. Führung hat."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schraubtechnik",
+  "prefix": "A",
+  "text": "Für die Kalibrierung ist eine elektrische oder mechanische Blockiermöglichkeit vorzusehen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schraubtechnik",
+  "prefix": "AM",
+  "text": "Mehrfachschrauber sind auf einer gemeinsamen Konsolengrundplatte zu montieren. Diese ist zur Justage auf den Schraubfall mit Andrück- bzw. Justierschrauben am Schrauberschlitten zu befestigen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schraubtechnik",
+  "prefix": "AM",
+  "text": "Eine graphische Darstellung des Schraubbildes mit Bezeichnung der Schrauberspindeln ist neben dem Bedienpult anzubringen. Eventuell auch durch einen Monitor darstellbar."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schraubtechnik",
+  "prefix": "AM",
+  "text": "Bei Löseschraubern oder bei Schraubern, welche im NIO-Fall die Schrauben wieder ganz lösen, ist ein Schraubenauswerfer/-abstreifer vorzusehen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schraubtechnik",
+  "prefix": "AM",
+  "text": "Es sind gefederte und leicht demontierbare Schlüsselköpfe einzusetzen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Glasmaßstab",
+  "prefix": "A",
+  "text": "Bei vorhandenem Mitnehmerstift an Kurbelwelle und/oder Nockenwelle sind die Mitnehmer für die Reibmomentmessung konstruktiv mit einer Einführschräge zu versehen. Sie soll das vorzeitige Mitnehmen von Kurbelwelle und/oder Nockenwelle sowie das Auftreten einer Momentspitze bei plötzlichem Finden verhindern. 5.37 A Messsysteme 5.37.1 A Glasmaßstab"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Glasmaßstab",
+  "prefix": "A",
+  "text": "Glasmaßstäbe sind leicht zugänglich einzubauen (Austauschzeit max. 2 Std)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Glasmaßstab",
+  "prefix": "A",
+  "text": "Das Typenschild muss nach Einbau des Glasmaßstabes lesbar sein. (ggf. ist ein Duplikatschild anzubringen)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Glasmaßstab",
+  "prefix": "A",
+  "text": "Die Positionierung der Glasmaßstäbe muss wiederholbar sein (Anschläge erleichtern die Positionierung)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Glasmaßstab",
+  "prefix": "A",
+  "text": "Der Glasmaßstab muss mit Sperrluft beaufschlagt werden (Sperrluftnachlauf ist erforderlich)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Die Zeitverzögerung muss auch beim Abschalten der Steuerspannung und des Hauptschalters wirksam bleiben. 5.38 AM Messtechnik Mechanische Ausführung 5.38.1 AM Allgemein"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kraftmessung",
+  "prefix": "AM",
+  "text": "Die elektrische Anschlussleitung ist am Messaufnehmer steckbar auszuführen. Die Ausführung ist nur nach OEM-X-3 zulässig. 5.38.2 AM Kraftmessung"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kraftmessung",
+  "prefix": "AM",
+  "text": "Beim Stauchzylinder-Druckkraftsensor ist die Kraft über eine Kalotte einzuleiten. Der Einbau muss spannungsfrei (schwimmende Lagerung) erfolgen. Ein Abheben der Kalotte vom Zentrierbund durch zu viel Spiel ist zu vermeiden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kraftmessung",
+  "prefix": "AM",
+  "text": "Kraftaufnehmer dürfen bei schlagenden oder klopfenden Bewegungsabläufen nicht eingesetzt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kraftmessung",
+  "prefix": "AM",
+  "text": "Es ist ein geeigneter Überlastschutz vorzusehen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kraftmessung",
+  "prefix": "AM",
+  "text": "Der Kraftsensor ist so auszuwählen, dass sich die zu erwartende maximale Einpresskraft im Bereich bis 70% des Sensornennwertes befindet."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kraftmessung",
+  "prefix": "AM",
+  "text": "Es sind normierte Messaufnehmer zu verwenden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kraftmessung",
+  "prefix": "AM",
+  "text": "Es ist eine externe Vorrichtung für einen zweiten Aufnehmer zur Gegenmessung (ohne Werkstück) vorzusehen. Ggf. kann dies auch durch den Einsatz eines Dummy realisiert werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Wegmessung mittels Messtasten",
+  "prefix": "AM",
+  "text": "Die Krafteinleitung an den Auflageflächen muss planparallel, zentrisch und querkräftefrei erfolgen. 5.38.3 AM Wegmessung mittels Messtasten"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Wegmessung mittels Messtasten",
+  "prefix": "AM",
+  "text": "Das Wegmesssystem muss mit externen Endlagenbegrenzungen zur Vermeidung von mechanischen Beschädigungen des Tasters ausgestattet sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Wegmessung mittels Messtasten",
+  "prefix": "AM",
+  "text": "Die Befestigung des Messaufnehmers/-tasters muss eine eindeutige Positionierung ermöglichen (Aufwandsverringerung bei Tastertausch)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Wegmessung mittels Messtasten",
+  "prefix": "AM",
+  "text": "Mechanisches Abheben des Messtasters (Springen) durch Rattern beim Einpressvorgang ist durch geeignete Maßnahmen zu vermeiden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Wegmessung mittels Messtasten",
+  "prefix": "AM",
+  "text": "Der zu messende Weg darf nicht mehr als 70% des Tastereinsatzbereichs betragen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Drehmomentmessung",
+  "prefix": "AM",
+  "text": "Ein direktes Messen der auf der Zeichnung festgelegten Basisfläche ist sicherzustellen. 5.38.4 AM Drehmomentmessung"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Drehmomentmessung",
+  "prefix": "AM",
+  "text": "Die Messwertübertragung hat ohne Schleifringe zu erfolgen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Drehmomentmessung",
+  "prefix": "AM",
+  "text": "Es ist auf eine kompakte Bauweise des Drehmomentaufnehmers mit gelagerten Wellen zu achten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Maschinen- und Anlagendiagnose",
+  "prefix": "AM",
+  "text": "Es sind normierte Messaufnehmer zu verwenden. 5.38.5 AM Maschinen- und Anlagendiagnose"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Maschinen- und Anlagendiagnose",
+  "prefix": "A",
+  "text": "Beim Einsatz der Maschinen- und Anlagenzustandsdiagnose für Werkzeugmaschinen ist die mechanische Ausführung gemäß der OEM-X-2 und die elektrische Ausführung / Installation gemäß der OEM-X-3 zu realisieren."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "M",
+  "text": "Beim Einsatz der Maschinen- und Anlagenzustandsdiagnose für Prozessanlagen durch Wälzlagerüberwachung oder Anlagenschwingung (z.B. Lüftungsanlagen, Pumpeneinheiten, Hochdruckpumpen, Generatoren, Kühlaggregate), ist die technische Ausführung gemäß den Herstellervorgaben, der OEM-X-2, den werksspezifischen Vorgaben und die elektrische Ausführung / Installation gemäß der OEM-X-3 zu realisieren. 5.39 AM Schlitteneinheiten 5.39.1 AM Allgemein"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Alle Schlitteneinheiten in der Nassbearbeitung müssen 1x täglich nach abgestimmtem Zyklus die gesamte Führungsbahnlänge abfahren. Ansonsten besteht die Gefahr, dass die Kühlschmierstoff- und Ölrückstände, an dem nicht ständig benutzten Führungsteil, verharzen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Dem Maschinenbediener wird täglich oder nach XX Werkstücken (richtet sich nach der Tagesproduktion) automatisch ein Hinweis gegeben, dass die Maschine den Gesamtweg fahren muss (der Bediener muss aus Sicherheitsgründen freigeben)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Ist die Freigabe nach weiteren XX Werkstücken nicht erfolgt, schaltet die Maschine ab. Ein Automatikbetrieb ist dann nur möglich, wenn der Vorgang „Gesamtfahrweg“ eingeleitet und durchgeführt wurde."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "AM",
+  "text": "Bei kleinen Hüben der Einheiten ist die Schmierung entsprechend den Angaben des Führungsherstellers auszulegen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "AM",
+  "text": "Die Führungsbahnen sind vor Verschmutzung zu schützen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Gleitführungen an Zerspanungsmaschinen",
+  "prefix": "AM",
+  "text": "Gleitführungen dürfen nicht durch die Gleitfläche verschraubt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Gleitführungen an Zerspanungsmaschinen",
+  "prefix": "AM",
+  "text": "Bei kleinen Hüben der Schlitteneinheit ist die Schmiernute entsprechend auszulegen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schlitten mit Profilschienenführung (PSF) Ausführung nach DIN645-2",
+  "prefix": "A",
+  "text": "Kunststoffbeschichtete oder ausgegossene Führungen sind in der Nassbearbeitung nicht zugelassen. 5.39.3 AM Schlitten mit Profilschienenführung (PSF) Ausführung nach DIN645-2"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schlitten mit Profilschienenführung (PSF) Ausführung nach DIN645-2",
+  "prefix": "AM",
+  "text": "An den Profilschienen müssen die Schraubenbohrungen mit Stahlstopfen/Messingstopfen bündig und ohne Ringspalt verschlossen werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schlitten mit Profilschienenführung (PSF) Ausführung nach DIN645-2",
+  "prefix": "AM",
+  "text": "Zum direkten Schutz gegen Späne, Schmutz und Kühlmittel sind im Arbeitsbereich stabile Abdeckungen, die die Führungsschienen komplett umschließen, vorgeschrieben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schlitten mit Profilschienenführung (PSF) Ausführung nach DIN645-2",
+  "prefix": "A",
+  "text": "Der gesamte Arbeitsraum ist gekapselt, so dass außerhalb dieses Raumes liegende Teile der Führung mit den Abstreifern und ggf. einfachen Schutzblechen, ausreichend geschützt sind."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schlitten mit Profilschienenführung (PSF) Ausführung nach DIN645-2",
+  "prefix": "AM",
+  "text": "Jedes Schlittenführungselement ist über gut zugängliche Verteiler einzeln an die Zentralschmierung anzuschließen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schlitten mit Profilschienenführung (PSF) Ausführung nach DIN645-2",
+  "prefix": "AM",
+  "text": "Bei fehlender Zentralschmierung sind die Einzelschmiernippel auf eine zentrale Schmierleiste zu führen (Schmierung nach OEM-X-6 und werkspezifische Vorschriften)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schlitten mit Profilschienenführung (PSF) Ausführung nach DIN645-2",
+  "prefix": "AM",
+  "text": "Innerhalb eines Produktionsmittels (Transferstraße, Montagelinie usw.) sind die Ausführungsvarianten der Profilschienenführungen so gering wie möglich zu halten (ggf. Überdimensionierung)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schlitten mit Profilschienenführung (PSF) Ausführung nach DIN645-2",
+  "prefix": "A",
+  "text": "Für Bearbeitungseinheiten mit Zerspanungsaufgaben sind Rollenschienenführungen vorgeschrieben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schlitten mit Profilschienenführung (PSF) Ausführung nach DIN645-2",
+  "prefix": "AM",
+  "text": "Auf den Führungsschienen der Profilschienenführungen dürfen keine Abdeckungen geführt oder abgestützt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schlitten mit Profilschienenführung (PSF) Ausführung nach DIN645-2",
+  "prefix": "A",
+  "text": "Bei Anlagen die mit Emulsion betrieben werden, muss der Führungswagen eine Doppeldichtung an den Wagenstirnseiten besitzen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schlitten mit Profilschienenführung (PSF) Ausführung nach DIN645-2",
+  "prefix": "A",
+  "text": "Beim Bearbeiten mit abrasiven Stoffen sind Messingstopfen nicht zulässig."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schlitten mit Profilschienenführung (PSF) Ausführung nach DIN645-2",
+  "prefix": "A",
+  "text": "Die Schmierverluste sind bei der Trockenzerspanung aus dem Arbeitsraum heraus zu leiten und zentral zu sammeln."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schlitten mit Profilschienenführung (PSF) Ausführung nach DIN645-2",
+  "prefix": "A",
+  "text": "Bei Emulsions- und Trockenzerspanung ist eine verstärkte Schmierung der Profilschienenführung erforderlich (möglichst große Menge pro Schmierimpuls bei gleichem Tagesverbrauch)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schlitten mit Profilschienenführung (PSF) Ausführung nach DIN645-2",
+  "prefix": "AM",
+  "text": "Metallabdeckbänder sind nicht zugelassen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Schlitten mit Profilschienenführung (PSF) Ausführung nach DIN645-2",
+  "prefix": "AM",
+  "text": "Verwendung von Kunststoffstopfen in Montagebereichen sind nur nach Absprache mit dem technisch verantwortlichen OEM-X Fachbereich zulässig."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Linerarkompakteinheiten",
+  "prefix": "AM",
+  "text": "Linearschlitten: AM Fahrwagen mit selbst schmierender Gleitführung müssen auf die Lebensdauer der Anlage ausgelegt sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Linerarkompakteinheiten",
+  "prefix": "AM",
+  "text": "Lineartische: AM Das Einsetzen von Rundführungen ist wegen Durchbiegung nicht zulässig"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Stoßdämpfer",
+  "prefix": "AM",
+  "text": "Für Schlitteneinheiten mit Profilschienenführung sind Endlagenbegrenzungen vorzusehen. Schlitteneinheiten mit Wälzlagerführung dürfen nicht aus den Führungen herauslaufen (Endanschläge, jedoch nicht am Führungswagen). 5.40.1 AM Stoßdämpfer"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Gasdruckfedern",
+  "prefix": "?",
+  "text": "Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.40.2 AM Gasdruckfedern"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Gummifedern",
+  "prefix": "?",
+  "text": "Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.40.3 AM Gummifedern"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "?",
+  "text": "Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.41 AM Gewichtsausgleich 5.41.1 AM Allgemein"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Mechanisch",
+  "prefix": "AM",
+  "text": "An schrägen und vertikalen Einheiten ist ein Gewichtsausgleich zur Massenkompensation vorzusehen (Lifte, Überheber, Montageeinrichtungen und Bearbeitungseinheiten). 5.41.2 AM Mechanisch"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Mechanisch",
+  "prefix": "AM",
+  "text": "Bei Einsatz von Gegengewichten müssen diese auf der ganzen Länge geführt und gegen herausfallen gesichert werden (DIN EN ISO 12100)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Mechanisch",
+  "prefix": "AM",
+  "text": "Rollenketten für den Gewichtsausgleich sind mit einer Bürstenschmierung zu versehen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Mechanisch",
+  "prefix": "AM",
+  "text": "Die Gegengewichte müssen zur Wartung abgesteckt werden können."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Mechanisch",
+  "prefix": "AM",
+  "text": "In der untersten Position sind Aussparungen im Bereich der Gegengewichtsbefestigung erforderlich."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Spindeln",
+  "prefix": "A",
+  "text": "Es sind konsequent die Kurzspindeln nach DIN 69002 einzusetzen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Spindeln",
+  "prefix": "A",
+  "text": "Ausnahmen sind in jedem Einzelfall zu beantragen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Spindeln",
+  "prefix": "A",
+  "text": "An jeder Spindel mit Sperrluft muss der Spindelflansch eine Messstelle und eine Einstellmöglichkeit für die Spindelsperrluft haben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Spindeln",
+  "prefix": "A",
+  "text": "Hat der Maschinenlieferant Bedenken gegen den Einsatz von Normspindeln, so muss er dieses rechtzeitig vor Auftragsvergabe der Planung (technische OEM-X Fachabteilung) mit Begründung schriftlich mitteilen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Spindeln",
+  "prefix": "A",
+  "text": "Die zugelassenen DIN-Spindelvarianten und die Werkzeugschnittstelle sind mit der Planung (technische OEM-X Fachabteilung) abzustimmen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Spindeln",
+  "prefix": "A",
+  "text": "Beim Einsatz von innerer Kühlschmierstoff-Zuführung an Vertikal- und Horizontaleinheiten ist die hintere Lagerung gegen Eindringen von Kühlschmierstoff abzudichten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Spindeln",
+  "prefix": "A",
+  "text": "Bei Vertikaleinheiten darf es im hinteren Gehäuse zu keinen Kühlschmierstoff Ansammlungen kommen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Spindeln",
+  "prefix": "A",
+  "text": "Bei Spindeln, die mit Weichdichtungen (Simmerringen) abgedichtet werden, sind die Laufflächen mit Keramik zu beschichten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Spindeln",
+  "prefix": "A",
+  "text": "Spindeln sind mit geölter Sperrluft auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Spindeln",
+  "prefix": "A",
+  "text": "Für jede Arbeitsspindel ist die zulässige Höchstdrehzahl auf einem Schild anzugeben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Bohrköpfe und Getriebe",
+  "prefix": "A",
+  "text": "Die Zeitverzögerung der Sperrluft muss auch beim Abschalten der Steuerspannung und des Hauptschalters wirksam bleiben. 5.42.2 A Bohrköpfe und Getriebe"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Bohrköpfe und Getriebe",
+  "prefix": "A",
+  "text": "Es dürfen nur Bohrköpfe und Getriebe nach DIN 69001 und nach DIN 69002 zum Einsatz kommen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Bohrköpfe und Getriebe",
+  "prefix": "A",
+  "text": "Alle Spindeln mit Sperrluft in einem Bohrkopf müssen am Spindelflansch eine Messstelle und eine Einstellmöglichkeit für Spindelsperrluft haben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Bohrköpfe und Getriebe",
+  "prefix": "A",
+  "text": "Kupplung von Motor und Bohrkopf sind nur mit Elastomer-Kupplungen ausgestattet zugelassen (DIN 69002-3)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Bohrköpfe und Getriebe",
+  "prefix": "A",
+  "text": "An Spindelstöcken und Spindelstockgetrieben mit Ölbad- und Ölumlaufschmierung ist eine elektrische Füllstandsüberwachung im Schauglas zu verwenden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Bohrköpfe und Getriebe",
+  "prefix": "A",
+  "text": "Ölschaugläser müssen von außen demontierbar und gut einsehbar angebracht sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Bohrköpfe und Getriebe",
+  "prefix": "A",
+  "text": "Das kontrollierte Auffüllen von Schmieröl an Spindelstöcken und Getrieben muss ein Mitarbeiter alleine ausführen können."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Bohrköpfe und Getriebe",
+  "prefix": "A",
+  "text": "Werden Wellen oder Spindeln mit Weichdichtungen (Simmerringen) abgedichtet, so sind die Laufflächen mit Keramik zu beschichten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Bohrköpfe und Getriebe",
+  "prefix": "A",
+  "text": "Für Mehrfachbohrköpfe ist die höchstzulässige Getriebeeingangsdrehzahl auf einem Schild anzugeben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Bohrköpfe und Getriebe",
+  "prefix": "A",
+  "text": "Pro Auftrag/Projekt darf nur ein Bohrkopf-Fabrikat eingesetzt werden. Das Fabrikat ist mit dem technischen Fachbereichen abzustimmen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Bohrköpfe und Getriebe",
+  "prefix": "A",
+  "text": "Die Schmierpumpe ist extern zu installieren (Antrieb nicht über das Bohrkopfgetriebe)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Bohrköpfe und Getriebe",
+  "prefix": "A",
+  "text": "Für Bohrköpfe sind keine Ölnebel- und Ölluftschmierungen zugelassen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Bohrköpfe und Getriebe",
+  "prefix": "A",
+  "text": "Die Bohrkopfbelüftung darf nicht im Arbeitsraum sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Bohrköpfe und Getriebe",
+  "prefix": "A",
+  "text": "Die Ölablass- und die Ölbefüllschraube ist mit einem Werkzeug zu öffnen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Die Zeitverzögerung der Sperrluft muss auch beim Abschalten der Steuerspannung und des Hauptschalters wirksam bleiben. 5.42.3 A Motorspindeln 5.42.3.1 A Allgemein"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Motorspindeln sind nur mit schriftlicher Genehmigung durch die OEM-X Fachabteilung zugelassen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Baugleiche Motorspindeln sind mit gleichlangen Kabel- und Schlauchleitungen zu versehen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Die Kühlung der Motorspindel muss mit einem Primär- und einem Sekundärkühlkreislauf ausgeführt werden (Korrosionsschutz)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "Motorspindeln mit offener Mantelkühlung sind nicht zugelassen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Motorspindeln für automatischen Werkzeugwechsel",
+  "prefix": "A",
+  "text": "Die Zeitverzögerung der Sperrluft muss auch beim Abschalten der Steuerspannung und des Hauptschalters wirksam bleiben. 5.42.3.2 A Motorspindeln für automatischen Werkzeugwechsel"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Motorspindeln für automatischen Werkzeugwechsel",
+  "prefix": "A",
+  "text": "Undichtheiten einer Kühlschmierstoff-Dreheinführung müssen von außen erkennbar sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Motorspindeln für automatischen Werkzeugwechsel",
+  "prefix": "A",
+  "text": "Die KSS-Hochdruckversorgung durch die Motorspindel muss auf die Normschnittstelle am Werkzeughalter angepasst werden (z.B. HSK 63, Schnittstelle Ø 8 mm)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Motorspindeln für automatischen Werkzeugwechsel",
+  "prefix": "A",
+  "text": "Alle Medienanschlüsse müssen steckbar und unverwechselbar ausgeführt werden. Es müssen kodierte Fluidkupplungen verwendet werden (Wasserkreislauf aus Edelstahl)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Motorspindeln für automatischen Werkzeugwechsel",
+  "prefix": "A",
+  "text": "Zum elektrischen Anschluss sind die Standardstecker der Steuerungshersteller zu verwenden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Motorspindeln für automatischen Werkzeugwechsel",
+  "prefix": "A",
+  "text": "Medien- und Elektrokupplungen müssen im eingebauten Zustand der Spindel zugänglich sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Motorspindeln für automatischen Werkzeugwechsel",
+  "prefix": "A",
+  "text": "Der Spindeltausch ohne Inbetriebnahme hat in 2 Stunden durch geschultes Personal zu erfolgen. Der Spindeltausch ohne Inbetriebnahme beinhaltet: - Aus- und Einbau von Hilfseinrichtungen, Bauteilen und Einheiten - Austausch der Spindel"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Drehzahlüberwachung bei Bearbeitungsspindeln",
+  "prefix": "?",
+  "text": "Stirnseitig zum Spindelflansch muss ein Einbaumaß festgelegt werden um sicher zustellen, dass man die gleichen Motorspindeltypen problemlos gegeneinander tauschen kann. Das Einbaumaß ist mit dem technisch verantwortlichen OEM-X Fachbereich festzulegen (Toleranz 0,03mm). 5.42.4 A Drehzahlüberwachung bei Bearbeitungsspindeln"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Drehzahlüberwachung bei Bearbeitungsspindeln",
+  "prefix": "A",
+  "text": "Eine Spindeldrehzahlüberwachung ist nicht grundsätzlich erforderlich, es ist entsprechend dem Bearbeitungsfall mit dem Fachbereich abzustimmen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Gewindeschneiden und Gewindeformen",
+  "prefix": "A",
+  "text": "Bei Ausfall der Drehzahl muss die Vorschubbewegung gestoppt werden. 5.42.5 A Gewindeschneiden und Gewindeformen"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Gewindeschneiden und Gewindeformen",
+  "prefix": "A",
+  "text": "Werden Gewinde mit Leitpatronen geschnitten, so müssen diese nach DIN 69001 ausgeführt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Gewindeschneiden und Gewindeformen",
+  "prefix": "A",
+  "text": "NC/Servo-Gewindeschneiden und Gewindeformen ist ohne Ausgleichfutter zugelassen (Sicheres Herausfahren nach Not-Aus im Prozess muss realisiert werden)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Gewindeschneiden und Gewindeformen",
+  "prefix": "A",
+  "text": "Für Gewindeschneiden und Gewindeformen mit Leitpatronen sind geregelte Spindelmotoren zu verwenden (Genauer Umschaltpunkt)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Gewindeschneiden und Gewindeformen",
+  "prefix": "A",
+  "text": "Bei sehr tiefen Gewinden ist eine innere Kühlschmierstoff-Zufuhr erforderlich."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Gewindeschneiden und Gewindeformen",
+  "prefix": "A",
+  "text": "Sackbohrungen sind unmittelbar vor dem Gewindeschneiden/-formen von Spänen zu reinigen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstück-Spannvorrichtungen Allgemein",
+  "prefix": "A",
+  "text": "In der Gewindespindel-Grundstellung und in der maximalen Tiefe des zu schneidenden Gewindes muss eine ausreichend große Gewindegangzahl im Eingriff sein, um ein Auslaufen der Spindel aus der Patrone zu verhindern. 5.43 AM Werkstück-Spannvorrichtungen Allgemein"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstück-Spannvorrichtungen Allgemein",
+  "prefix": "A",
+  "text": "Die Spannvorrichtungen sind so zu gestalten, dass Bearbeitungsrückstände ungehindert abfließen können."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstück-Spannvorrichtungen Allgemein",
+  "prefix": "AM",
+  "text": "Saubere Werkstückauflagen sind taktgebunden zu gewährleisten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstück-Spannvorrichtungen Allgemein",
+  "prefix": "A",
+  "text": "Wenn gegen Spannpratzen gearbeitet werden muss, dann muss die Spannung verkeilt werden (Ausnahmen sind im Einzelfall durch den technisch verantwortlichen OEM-X Fachbereich zu genehmigen)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstück-Spannvorrichtungen Allgemein",
+  "prefix": "AM",
+  "text": "Eine ausreichende Schmierung der Vorrichtungsfunktionsteile ist sicherzustellen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstück-Spannvorrichtungen Allgemein",
+  "prefix": "AM",
+  "text": "Zahnstangen und Zahnräder müssen geschmiert und gegen Eindringen von Schmutz, Spänen, Kühlschmierstoff, Feuchtigkeit und Kondenswasser geschützt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstück-Spannvorrichtungen Allgemein",
+  "prefix": "A",
+  "text": "Bewegliche Teile dürfen grundsätzlich nicht im Vorrichtungsgrundkörper laufen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstück-Spannvorrichtungen Allgemein",
+  "prefix": "A",
+  "text": "Das Verwenden von DU- und Kugelbüchsen in Spannvorrichtungen in der Zerspanung ist nicht zulässig."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstück-Spannvorrichtungen Allgemein",
+  "prefix": "AM",
+  "text": "Die Spannwege der Spanneinrichtungen sind direkt abzufragen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstück-Spannvorrichtungen Allgemein",
+  "prefix": "A",
+  "text": "Fixierbolzen/Index, Auflage- und Anlagepunkte dürfen nicht als Gewindeschraube ausgeführt werden, sondern als Passsitz mit Sicherungsschraube."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstück-Spannvorrichtungen Allgemein",
+  "prefix": "AM",
+  "text": "Bei Einsatz von mechanischen Spannern sind diese selbsthemmend auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstück-Spannvorrichtungen Allgemein",
+  "prefix": "A",
+  "text": "Auflagepunkte sind schnellwechselbar, verschleißfest und in der Höhe abstimmbar auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstück-Spannvorrichtungen Allgemein",
+  "prefix": "A",
+  "text": "Fixierbolzen innerhalb der Vorrichtung müssen dort, wo die Koordinaten wichtig sind, über eine Abstimmplatte in jeder Richtung justiert werden können. Diese Fixierbolzen müssen eine Sollbruchstelle haben (bei Überlastung ein Ausbrechen der Spannvorrichtung verhindern)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstück-Spannvorrichtungen Allgemein",
+  "prefix": "A",
+  "text": "Das Werkstück muss auf der Zwischenablage formschlüssig gehalten werden (durch Indexbolzen oder seitliche Begrenzungselemente)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Werkstück-Spannvorrichtungen Allgemein",
+  "prefix": "A",
+  "text": "Sollen Prüf-, Mess- oder sonstige Operationen in den Zwischenablagen erforderlich sein, so muss im Einzelfall geprüft werden, ob das Werkstück festgehalten werden muss."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kraftspannfutter (Drehfutter Zylinder mit rotierender Ölzufuhr)",
+  "prefix": "AM",
+  "text": "Innerhalb eines Projektes/Lieferumfangs sind Spannvorrichtungen von einem Hersteller einzusetzen. 5.43.1 AM Kraftspannfutter (Drehfutter Zylinder mit rotierender Ölzufuhr)"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Handspanner",
+  "prefix": "?",
+  "text": "Ein Kraftspanner ist ein durch sein physikalisches Prinzip (Keil, Hebel, Zahnstange etc.) vorgegebene Spanneinrichtung zum Klemmen und Fixieren von Materialien. 5.43.2.1 AM Handspanner"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "?",
+  "text": "Das Werkstück muss auf der Zwischenablage formschlüssig gehalten werden (durch Indexbolzen oder seitliche Begrenzungselemente). 5.44 AM Rund-, Dreh- und Schalttische 5.44.1 AM Allgemein"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "AM",
+  "text": "Für alle Tische sind die höchstzulässigen Geschwindigkeitswerte und Belastungen anzugeben (Beschleunigung und Höchstgeschwindigkeit)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "AM",
+  "text": "Das Auffüllen von Öl und die Füllstandskontrolle müssen von 1 Mitarbeiter ausgeführt werden können (z.B. in Transferstraßen Schauglas und Befüllstutzen nach außen verlegen)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "AM",
+  "text": "Es ist darauf zu achten, dass möglichst wenige Tischtypen zum Einsatz kommen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "AM",
+  "text": "Die Tische dürfen keine Reibkupplung haben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Allgemein",
+  "prefix": "A",
+  "text": "KSS-Zuführung durch den Tisch sind nur mit separatem Drehverteiler zulässig."
+ },
+ {
+  "doc": "STD-2",
+  "section": "NC/Servo-Rundtische",
+  "prefix": "AM",
+  "text": "die jeweiligen Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Drehtische oder Schalttische",
+  "prefix": "AM",
+  "text": "Die Positionsgeber müssen leicht zugänglich sein (zum Tausch kein Abbau von Baugruppen). 5.44.3 AM Drehtische oder Schalttische maßlich genaue Positionierung (mechanisch, z.B. Indexwalze) definierte Teilung gleicher Winkelschritte"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Revolver",
+  "prefix": "AM",
+  "text": "Die Ansteuerung muss frequenzgeregelt ausgeführt sein. 5.45 A Revolver"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Stempelmaschinen",
+  "prefix": "A",
+  "text": "Die jeweiligen Ausführungen sind mit Projektleitung und der verantwortlichen technischen OEM-X Fachabteilung abzustimmen und freizugeben. 5.46 AM Markiersysteme 5.46.1 AM Stempelmaschinen"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Typenradpräger",
+  "prefix": "AM",
+  "text": "Manuelle, pneumatisch oder hydraulisch betriebene Prägeeinheiten sind zulässig. 5.46.2 AM Typenradpräger"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Typenradpräger",
+  "prefix": "AM",
+  "text": "Positionierungen, die über eine Kugelroll- oder Gewindespindel ausgeführt werden, sind mit einer Sicherheitskupplung auszurüsten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Typenradpräger",
+  "prefix": "AM",
+  "text": "Die zu prägende Fläche ist möglichst direkt mittels zugestelltem Gegenhalter abzustützen (zur Vermeidung von Ausweichbewegungen und Glockeneffekt bei Hohlkörpern). Der Gegenhalter ist zu verkeilen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Typenradpräger",
+  "prefix": "AM",
+  "text": "Die Kontaktflächen des Gegenhalters sind als Wechselteile zu gestalten."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Typenradpräger",
+  "prefix": "AM",
+  "text": "Bei Verwendung von Typenradprägern sind Scheibenräder zu verwenden (bei Topfrädern Bruchgefahr an den abgekanteten Zungen)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Typenradpräger",
+  "prefix": "AM",
+  "text": "Der Antriebsriemen des Prägerades ist mit einer Spannrolle (Federvorspannung) auszuführen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Typenradpräger",
+  "prefix": "AM",
+  "text": "Typenräder sind mit einzelnen austauschbaren Typen/Zeichen zu gestalten (einlöten ist nicht zulässig)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Typenradpräger",
+  "prefix": "AM",
+  "text": "Typenräder müssen leicht austauschbar zu montieren sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Typenradpräger",
+  "prefix": "AM",
+  "text": "Wenn es der zu verwendende Zeichensatz zulässt, ist dieser auf dem Typenrad mehrfach anzuordnen. Die Zeichensätze müssen über ein Programm leicht anwählbar (Sofortmaßnahme bei Typendefekt)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Typenradpräger",
+  "prefix": "AM",
+  "text": "Die Zeichensätze müssen im eingebauten Zustand leicht zu reinigen sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Typenradpräger",
+  "prefix": "AM",
+  "text": "Es ist ein Belegungsplan für das Typenrad zu erstellen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Abrollprägemaschinen",
+  "prefix": "AM",
+  "text": "Der Prägestempel muss einstellbar sein. 5.46.3 AM Abrollprägemaschinen"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Nadel-/Ritz-Präger",
+  "prefix": "AM",
+  "text": "Der Nadelpräger muss als Gesamtmodul mit geringem Aufwand tauschbar sein (wenige und gut zugängliche Verbindungselemente, Positionierhilfen)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Nadel-/Ritz-Präger",
+  "prefix": "AM",
+  "text": "Die Energiezuführung ist steckbar zu gestalten (Austauschbarkeit)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Nadel-/Ritz-Präger",
+  "prefix": "AM",
+  "text": "Die Prägenadel muss ohne Sonderwerkzeug leicht tauschbar sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Nadel-/Ritz-Präger",
+  "prefix": "AM",
+  "text": "Die Prägetiefe muss einstellbar sein."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Laser",
+  "prefix": "AM",
+  "text": "Einer Verschmutzung der Mechanik durch Umgebungseinflüsse ist durch eine geeignete Kapselung zu verhindern. 5.46.5 AM Laser"
+ },
+ {
+  "doc": "STD-2",
+  "section": "MSG-Schweißen",
+  "prefix": "?",
+  "text": "Gehört zu den Lichtbogenpressschweißverfahren. Ziel des Bolzenschweißens ist das dauerhafte Verbinden von bolzenförmigen Elementen (z.B. Gewindebolzen, Stifte) mit größeren Bauteilen (z.B. Karosseriebleche). 5.47.2 AM MSG-Schweißen"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Roboterzangen und stationäre Zangen (Maschinenzangen)",
+  "prefix": "?",
+  "text": "ist ein Lichtbogenschweißverfahren, bei dem der abschmelzende Schweißdraht von einem Motor mit veränderbarer Geschwindigkeit kontinuierlich nachgeführt wird. Gleichzeitig mit dem Drahtvorschub wird der Schweißstelle über eine Düse das Schutzgas zugeführt. 5.48 AM Schweißzangen 5.48.1 AM Roboterzangen und stationäre Zangen (Maschinenzangen)"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Roboterzangen und stationäre Zangen (Maschinenzangen)",
+  "prefix": "?",
+  "text": "Sind mobile Schweißgeräte zum Punktschweißen, die von Industrieroboter zum Schweißort geführt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Elektro- Servozangen",
+  "prefix": "?",
+  "text": "sind mobile Schweißgeräte zum Punktschweißen, die von Hand oder durch Manipulatoren zum Schweißort geführt werden. 5.48.3 AM Elektro- Servozangen"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Elektro- Servozangen",
+  "prefix": "?",
+  "text": "Sind fest montierte oder mobile Schweißgeräte zum Punktschweißen. Mobile Schweißgeräte werden durch Industrieroboter oder von Hand bzw. durch Manipulatoren zum Schweißort geführt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Tragarm und Drehmomentabstützung",
+  "prefix": "AM",
+  "text": "Die Anbindung des Gewichtsausgleichers (Balancer / Autostaten / Federzug) zu der Teleskopabstützung muss ohne Demontage einzelner Bauteile sichtbar sein. Das Drahtseil des Balancers / Autostaten / Federzuges muss im eingebauten Zustand auf Beschädigungen überprüft werden können."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Tragarm und Drehmomentabstützung",
+  "prefix": "AM",
+  "text": "Die Anbindung eines Federzuges (Balancers / Autostaten) an einer Teleskopabstützung muss so gestaltet sein, dass der Federzug ohne aufwendiges Demontieren der Teleskopabstützung gewechselt werden kann."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Tragarm und Drehmomentabstützung",
+  "prefix": "AM",
+  "text": "Die obere Endlage bei einer Teleskopabstützung muss gedämpft angefahren werden (Stoßdämpfer, Feder oder Gummipuffer)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Tragarm und Drehmomentabstützung",
+  "prefix": "AM",
+  "text": "Der Teleskopauszug muss gegen Herausfallen gesichert sein. Bei dem Einsatz von Pneumatik-zylindern zur Unterstützung des Teleskopauszuges (ohne Gewichtsausgleich) sind diese mit Klemm-einheiten auszulegen. Zudem ist der Teleskopauszug mit einem Lastsicherungsgerät gegen Absturz zu sichern."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Tragarm und Drehmomentabstützung",
+  "prefix": "AM",
+  "text": "Zur Befestigung des Drahtseils müssen Kauschen und Pressklemmen verwendet werden (keine Seilklemmen einsetzen)."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Tragarm und Drehmomentabstützung",
+  "prefix": "AM",
+  "text": "Sämtliche Werkzeuge ab einem Gesamtgewicht von über 15kg sind gegen Herunterfallen zu sichern. Für die Anbindung ab dieser Gewichtsklasse müssen Federzuge (Balancers / Autostaten) mit doppelten Tragseil eingesetzt werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Tragarm und Drehmomentabstützung",
+  "prefix": "AM",
+  "text": "Bei Drehschraubern, die am Werkstück abgestützt werden müssen, ist die Abstützung so auszulegen, dass zum Gegenmessen des Werkzeuges ein externer Messwertaufnehmer installiert werden kann."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Tragarm und Drehmomentabstützung",
+  "prefix": "AM",
+  "text": "Sind Werkzeuge angeschraubt, müssen die Gewinde gegen Herausdrehen gesichert werden (nicht einkleben). Bei Schraubverbindungen mit Durchgangsbohrungen sind selbstsichernde Muttern einzusetzen. Bei Schweißkonstruktionen sind DIN-gerechte Materialien zu verwenden und auf eine fachgerechte Ausführung ist zu achten. Schweiß- Prüfbescheinigungen sind beizustellen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Manipulatoren/Hebezeuge",
+  "prefix": "AM",
+  "text": "Bei der konstruktiven Auslegung der Teleskopauszüge müssen Standard Führungskomponenten eingesetzt werden. Um ein Höchstmaß an Leichtgängigkeit, Stabilität und Sicherheit zu erreichen, muss ein geschlossenes System in Rahmenbauweise mit zwei Linearführungen eingesetzt werden. 5.53.2 AM Manipulatoren/Hebezeuge"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Kennzeichnung von Handhabungsgeräten",
+  "prefix": "AM",
+  "text": "Tragmittel, Lastaufnahmemittel und Anschlagmittel: Als Lastaufnahmemittel gelten nicht fix mit der Hebeeinrichtung verbundene Bauteile, die zwischen Kran- oder Hebezeughaken und Nutzlast angebracht werden, um die Last sicher aufzunehmen. 5.54 AM Kennzeichnung 5.54.1 AM Kennzeichnung von Handhabungsgeräten"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Verwendung von Normteilen",
+  "prefix": "?",
+  "text": "Die Kennzeichnungen müssen folgende Informationen enthalten und dauerhaft angebracht sein: - Inventar- und F-Nummer OEM-X - Hersteller (Vorrichtungs-/Seriennummer des Herstellers) - Baujahr - Gesamtgewicht (inkl. Werkzeuge) - Prüfungszyklus/Prüfplakette - Max. Drehmoment (ergänzend bei Drehmomentabstützungen) - CE Kennzeichnung 6 Abmessungen und Toleranzen/Lieferform 6.1 AM Verwendung von Normteilen"
+ },
+ {
+  "doc": "STD-2",
+  "section": "Verwendung von Normteilen",
+  "prefix": "AM",
+  "text": "Es sind grundsätzlich Normteile einzusetzen."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Verwendung von Normteilen",
+  "prefix": "AM",
+  "text": "Normteile dürfen in Ihren Abmessungen, Werkstoffen und Eigenschaften nicht verändert werden."
+ },
+ {
+  "doc": "STD-2",
+  "section": "Verwendung von Normteilen",
+  "prefix": "AM",
+  "text": "Von Normteilen abweichende Komponenten sind bei Ersatz- und Verschleißteilen durch eine beigestellte Fertigungszeichnung, ohne Zusatzkosten, zu dokumentieren."
+ }
+]

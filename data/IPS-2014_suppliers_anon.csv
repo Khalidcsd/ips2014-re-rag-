@@ -1,0 +1,50 @@
+supplier_key,supplier_ref,region,categories,category_count
+SUP-401,REF-2565,DE,"Pumps, Motors, Valves, Cylinders, Filters, Accumulators",6
+SUP-943,REF-4179,DE,"Pumps, Valves, Cylinders, Filters, Fittings",5
+SUP-648,REF-1414,DE,"Filters, Accumulators, Valves, Monitoring",4
+SUP-886,REF-8170,DE,"Valves, Power Units, Accumulators",3
+SUP-639,REF-2244,DE,Filters,1
+SUP-564,REF-8253,DE,Filters,1
+SUP-279,REF-3533,DE,Cylinders,1
+SUP-138,REF-3096,DE,Cylinders,1
+SUP-739,REF-3069,DE,Cylinders,1
+SUP-273,REF-6160,DE,Valves,1
+SUP-677,REF-9418,DE,Valves,1
+SUP-085,REF-0569,DE,"Valves, Accumulators",2
+SUP-740,REF-1127,DE,"Valves, Pumps",2
+SUP-924,REF-4168,DE,"Pumps, Motors",2
+SUP-347,REF-3996,DE,Motors,1
+SUP-933,REF-8262,DE,Motors,1
+SUP-568,REF-2823,DE,"Fittings, Couplings",2
+SUP-246,REF-6198,DE,Fittings,1
+SUP-137,REF-1755,DE,Fittings,1
+SUP-780,REF-8836,DE,"Fittings, Valves",2
+SUP-346,REF-6832,DE,Monitoring,1
+SUP-297,REF-9609,DE,Monitoring,1
+SUP-947,REF-3483,DE,Monitoring,1
+SUP-827,REF-2245,DE,Monitoring,1
+SUP-472,REF-7820,DE,Monitoring,1
+SUP-565,REF-9069,DE,Monitoring,1
+SUP-182,REF-6340,DE,Clamping,1
+SUP-724,REF-4521,DE,Clamping,1
+SUP-955,REF-5203,DE,"Clamping, Power Units",2
+SUP-486,REF-3282,DE,"Cylinders, Clamping",2
+SUP-485,REF-0674,DE,Clamping,1
+SUP-196,,DE,Couplings,1
+SUP-937,REF-4852,DE,Couplings,1
+SUP-217,REF-8445,DE,Couplings,1
+SUP-906,REF-3363,DE,Rotary Unions,1
+SUP-007,REF-1126,DE,Rotary Unions,1
+SUP-399,REF-1686,DE,Couplings,1
+SUP-478,REF-0660,DE,Couplings,1
+SUP-238,REF-2736,DE,Accumulators,1
+SUP-588,REF-1409,DE,"Motors, Cylinders",2
+SUP-024,REF-1764,DE,"Motors, Cylinders",2
+SUP-341,REF-8110,DE,"Fittings, Monitoring",2
+SUP-033,REF-2189,DE,Monitoring,1
+SUP-971,REF-3552,DE,Monitoring,1
+SUP-879,REF-8798,DE,Monitoring,1
+SUP-471,REF-4419,DE,Valves,1
+SUP-944,REF-6858,DE,Fittings,1
+SUP-994,REF-4984,DE,Monitoring,1
+SUP-100,REF-3098,DE,Monitoring,1

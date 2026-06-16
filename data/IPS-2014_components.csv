@@ -1,0 +1,38 @@
+main_category,main_category_en,subcategory,subcategory_en
+Energieumwandlung,Energy Conversion,Hydropumpen,Hydraulic Pumps
+Energieumwandlung,Energy Conversion,Hydromotoren,Hydraulic Motors
+Energieumwandlung,Energy Conversion,Kupplungen,Couplings
+Energieumwandlung,Energy Conversion,Pumpenträger,Pump Mounts
+Energieumwandlung,Energy Conversion,Hydraulikaggregate,Hydraulic Power Units
+Hydrozylinder,Hydraulic Cylinders,Standard bis 160 bar,Standard up to 160 bar
+Hydrozylinder,Hydraulic Cylinders,Standard bis 250 bar,Standard up to 250 bar
+Hydrozylinder,Hydraulic Cylinders,Schwenkzylinder,Rotary Cylinders
+Hydrozylinder,Hydraulic Cylinders,Rotierende Zylinder,Rotating Cylinders
+Hydrozylinder,Hydraulic Cylinders,Spannelemente,Clamping Elements
+Hydrospeicher,Hydraulic Accumulators,Blasenspeicher,Bladder Accumulators
+Hydrospeicher,Hydraulic Accumulators,Kolbenspeicher,Piston Accumulators
+Hydrospeicher,Hydraulic Accumulators,Membranspeicher,Diaphragm Accumulators
+Hydrospeicher,Hydraulic Accumulators,Sicherheitsblöcke,Safety Blocks
+Hydrospeicher,Hydraulic Accumulators,Sicherheitsventile,Safety Valves
+Hydrospeicher,Hydraulic Accumulators,Befestigungsschellen,Mounting Clamps
+Hydroventile,Hydraulic Valves,Wegeventile,Directional Control Valves
+Hydroventile,Hydraulic Valves,Rückschlagventile,Check Valves
+Hydroventile,Hydraulic Valves,Druckventile,Pressure Valves
+Hydroventile,Hydraulic Valves,Stromventile,Flow Control Valves
+Hydroventile,Hydraulic Valves,Absperrventile,Shut-off Valves
+Hydroventile,Hydraulic Valves,Spannhydraulik-Ventile,Clamping Hydraulics Valves
+Filter,Filters,Leitungsfilter,In-line Filters (Pressure)
+Filter,Filters,Rücklauffilter,Return Filters
+Filter,Filters,Belüftungsfilter,Breather Filters
+Filter,Filters,Befüller,Filling Units
+Rohrleitungen,Piping & Connections,Schneidringverschraubungen,Cutting Ring Fittings
+Rohrleitungen,Piping & Connections,Umformverschraubungen,Formed Fittings
+Rohrleitungen,Piping & Connections,Anschweißverschraubungen,Weld Fittings
+Rohrleitungen,Piping & Connections,Befestigungsschellen,Mounting Clamps
+Rohrleitungen,Piping & Connections,Schnellkupplungen,Quick Couplings
+Rohrleitungen,Piping & Connections,Drehverbindungen,Rotary Unions
+Überwachung,Monitoring & Control,Druckmessgeräte,Pressure Gauges
+Überwachung,Monitoring & Control,Füllstandsanzeigen,Level Indicators
+Überwachung,Monitoring & Control,Temperaturschalter,Temperature Switches
+Überwachung,Monitoring & Control,Strömungswächter,Flow Monitors
+Überwachung,Monitoring & Control,Druckschalter,Pressure Switches
