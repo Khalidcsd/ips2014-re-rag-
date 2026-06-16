@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """eval_extras.py - significance test + MRR@k sweep for IPS-2014.
 Run after rag_finetune_pipeline.py (so the fine-tuned model exists):
   python eval_extras.py --requirements IPS-2014_requirements_anon.json

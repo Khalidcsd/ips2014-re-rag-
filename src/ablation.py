@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """ablation.py - base-encoder x epochs ablation for IPS-2014.
 Run after rag_finetune_pipeline.py works:
   python ablation.py --requirements IPS-2014_requirements_anon.json
